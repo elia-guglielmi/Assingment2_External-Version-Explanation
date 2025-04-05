@@ -1,0 +1,801 @@
+Series_Title,Production_Budget,Box_Office_Gross,Profitability_Ratio,Primary_Production_Company,Release_Season
+Star Wars,164000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Gray PLC,Winter
+Dawn of the Dead,29000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Blackburn-Ortiz,Fall
+The Day of the Jackal,7000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Miller-Frank,Winter
+Harvey,190000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Wright, Wong and Arellano",Fall
+After Hours,71000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Jones-Chaney,Spring
+Toy Story 4,63000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Bonilla, Knight and Villarreal",Winter
+Casino,58000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Molina Inc,Spring
+Eastern Promises,36000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Atkins-Bailey,Spring
+The Man from Earth,189000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Castillo-Anderson,Fall
+A Few Good Men,27000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Martinez Ltd,Summer
+Taare Zameen Par,174000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Snow, Powell and Rodriguez",Spring
+Udaan,190000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Pearson-Zavala,Spring
+The Illusionist,140000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Moore, Jackson and Harvey",Spring
+Miller's Crossing,23000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Becker LLC,Summer
+The Game,152000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Munoz, Petersen and Cisneros",Summer
+Bãhubali: The Beginning,109000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Keller-Montgomery,Spring
+A Bronx Tale,9000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Walker PLC,Summer
+La leggenda del pianista sull'oceano,8000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Phillips Ltd,Summer
+50/50,24000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Holder-Frye,Summer
+À bout de souffle,56000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Schmitt-Collins,Winter
+On the Waterfront,60000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Pacheco LLC,Spring
+La vie d'Adèle,130000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Porter Ltd,Summer
+When Harry Met Sally...,155000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Bishop Ltd,Winter
+Psycho,7000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Davidson-Blankenship,Fall
+Hell or High Water,144000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Nelson, Perry and Blair",Fall
+The Dark Knight,51000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Taylor Group,Summer
+Night of the Living Dead,184000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Smith, Rodriguez and Matthews",Spring
+Dev.D,167000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Sullivan-Hunt,Summer
+True Grit,180000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Smith Ltd,Fall
+All the President's Men,140000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Rodriguez-Donaldson,Spring
+The Perks of Being a Wallflower,108000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Davis, Rojas and Thomas",Spring
+A Hard Day's Night,57000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Robinson Ltd,Fall
+The Artist,115000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Brown-Hayes,Winter
+Hidden Figures,151000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Williams-Thompson,Winter
+Joker,72000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Cobb Ltd,Summer
+Shichinin no samurai,2000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Pittman Inc,Spring
+Into the Wild,195000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Carter, Allen and Chen",Summer
+Die Hard: With a Vengeance,41000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Curtis and Sons,Spring
+To Be or Not to Be,179000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Duran, Campos and Perez",Fall
+Wonder,109000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Ford, Cooper and Williams",Spring
+The Godfather: Part II,88000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Baird-Jackson,Spring
+Relatos salvajes,72000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Thompson Ltd,Fall
+Almost Famous,40000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Brooks Inc,Winter
+"South Park: Bigger, Longer & Uncut",56000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Walker, Castillo and Mcintosh",Fall
+Le salaire de la peur,196000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Gallegos-Monroe,Spring
+Star Wars: Episode VI - Return of the Jedi,87000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Garrett, Cross and Collins",Fall
+Doctor Zhivago,27000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Jones Ltd,Spring
+Tengoku to jigoku,24000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Fernandez LLC,Winter
+1917,98000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Wells Group,Winter
+Solaris,25000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Cervantes-Harris,Spring
+Sunset Blvd.,92000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Reid, Mcneil and Flores",Winter
+Kelly's Heroes,89000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Brown-Johnson,Fall
+Adaptation.,155000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Williams-Houston,Winter
+Creed,68000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Harrell-Rivera,Summer
+Scent of a Woman,12000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Fowler Inc,Winter
+Togo,187000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Campbell Inc,Summer
+Once Were Warriors,118000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Tran-Mercer,Fall
+The Visitor,138000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Burton PLC,Winter
+Gone Baby Gone,32000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Chapman, Carroll and Snyder",Winter
+The Lord of the Rings: The Return of the King,97000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Nicholson and Sons,Winter
+The Fault in Our Stars,21000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Lowery-Jones,Fall
+Manbiki kazoku,142000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Simpson-Williams,Fall
+Requiem for a Dream,76000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Lloyd, Hernandez and Lopez",Summer
+Dead Poets Society,161000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Moore-Clark,Spring
+The Avengers,159000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Scott-Andrade,Fall
+Rebel Without a Cause,93000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Sheppard, Nichols and Howell",Winter
+Interstate 60: Episodes of the Road,148000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Gonzalez, Cortez and Alexander",Summer
+Dogville,50000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Steele, Cole and James",Winter
+Pride & Prejudice,181000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Moore, Mata and Galloway",Winter
+Vizontele,18000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Garcia-Young,Fall
+Jab We Met,12000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Wall Ltd,Spring
+North by Northwest,170000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Soto, Johnson and Blair",Winter
+Serbuan maut,59000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Serrano Inc,Fall
+The Truman Show,198000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Price-Hunter,Summer
+Carlito's Way,75000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Yu-Gray,Winter
+Fight Club,21000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Lucas LLC,Summer
+Pink,60000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Fisher-Gibbs,Fall
+The Girl with the Dragon Tattoo,26000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Williams-Ferguson,Fall
+Rear Window,98000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Lewis-Ross,Fall
+Coraline,72000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,King-Glass,Fall
+Pride,117000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Andrade-Coffey,Fall
+"O Brother, Where Art Thou?",163000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Davis-Mcbride,Spring
+Salinui chueok,94000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Palmer, Dixon and Johnson",Summer
+Andrei Rublev,42000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Rhodes, Gutierrez and Williams",Spring
+Ôkami kodomo no Ame to Yuki,95000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Robinson, Jacobson and Medina",Summer
+Duck Soup,91000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Wright and Sons,Winter
+Dallas Buyers Club,54000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Monroe-Wilson,Winter
+Kind Hearts and Coronets,172000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Lin-Miles,Summer
+Okuribito,69000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Brooks, Jackson and White",Winter
+Enemy at the Gates,180000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Tapia LLC,Winter
+Y tu mamá también,175000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Adams Ltd,Winter
+Vampire Hunter D: Bloodlust,166000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Horn, Davenport and Brown",Spring
+Les choristes,19000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Johnson Group,Spring
+Dil Bechara,156000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Thomas-Fuentes,Fall
+The Bourne Ultimatum,163000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Rodriguez, Torres and Kelley",Summer
+"I, Daniel Blake",44000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mann-Henderson,Winter
+Jeux d'enfants,137000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Cervantes PLC,Summer
+Who's Afraid of Virginia Woolf?,187000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Coffey LLC,Fall
+Schindler's List,63000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Grant, Frost and Jones",Fall
+Batman Begins,42000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Larson Group,Winter
+Harold and Maude,119000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Jackson, Perry and Lowe",Fall
+Sweet Smell of Success,98000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Spears-Henderson,Winter
+Edge of Tomorrow,70000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Russell Ltd,Fall
+Fiddler on the Roof,164000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Wilson Ltd,Fall
+The Machinist,177000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Valencia-Hart,Winter
+Blow,143000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Sexton-Woods,Fall
+Gully Boy,57000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Williams, Lyons and Pratt",Fall
+Paddington 2,176000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Vang-Hernandez,Fall
+Mysterious Skin,84000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Chapman-Lopez,Summer
+Freaks,197000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Owens-Sandoval,Spring
+English Vinglish,199000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Bryant, Cherry and Bowman",Summer
+This Is Spinal Tap,15000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Daniels and Sons,Fall
+Under sandet,59000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Gutierrez, Moore and Evans",Spring
+The Innocents,9000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Rodriguez Inc,Summer
+In a Lonely Place,81000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hicks-Jarvis,Summer
+Laura,103000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hale LLC,Summer
+Hachi: A Dog's Tale,69000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Silva-Watkins,Winter
+My Name Is Khan,17000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Jackson, Jennings and Gordon",Fall
+Omoide no Mânî,55000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,James LLC,Fall
+Hacksaw Ridge,146000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Pace Inc,Spring
+Witness for the Prosecution,184000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Madden Inc,Summer
+Chak De! India,81000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Henry LLC,Fall
+Le notti di Cabiria,55000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mathews-Cole,Summer
+The Curious Case of Benjamin Button,168000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Kim, Henry and Ramirez",Fall
+The Bourne Supremacy,128000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Ramirez Ltd,Summer
+Harry Potter and the Prisoner of Azkaban,102000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Johnson-Hartman,Fall
+Bohemian Rhapsody,165000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Harris, Webb and Hamilton",Spring
+Un prophète,118000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Paul-Thomas,Summer
+To Have and Have Not,37000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Cabrera-George,Fall
+Talvar,68000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Garcia-Novak,Spring
+My Fair Lady,36000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Williams, Willis and Ray",Spring
+The Shop Around the Corner,64000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Whitney, English and Roth",Fall
+Deadpool 2,191000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Wilson-Wilson,Summer
+Veer-Zaara,144000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Carter, Beard and Rice",Winter
+The Shawshank Redemption,138000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Hunt, King and Warner",Spring
+It Happened One Night,68000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Alexander-Mathis,Spring
+Jules et Jim,192000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Pratt PLC,Fall
+Charade,150000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Andrews-Dawson,Winter
+The Day the Earth Stood Still,110000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Lee, Reynolds and Robbins",Winter
+The Blues Brothers,150000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Franklin-Harvey,Winter
+Star Wars: Episode VII - The Force Awakens,103000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Chambers Ltd,Fall
+Rain Man,93000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mcgee-Hanson,Summer
+Ran,57000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Nicholson PLC,Spring
+M - Eine Stadt sucht einen Mörder,36000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Walker Ltd,Fall
+Kôkaku Kidôtai,131000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,May-Martin,Winter
+Sleuth,127000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Rush, Gonzalez and Warren",Spring
+The Ten Commandments,24000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Clark Ltd,Spring
+A Star Is Born,194000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Rivera, Wise and Jones",Winter
+Incendies,13000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mitchell-Hill,Winter
+Boksuneun naui geot,29000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Powell PLC,Spring
+Yôjinbô,40000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Davis Inc,Spring
+Fanny och Alexander,161000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Harrison, Day and Mullins",Summer
+Leviafan,41000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Castillo-Chen,Summer
+Memento,175000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Clark-Kirby,Fall
+La battaglia di Algeri,109000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Robinson Group,Spring
+Green Book,153000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Allen-Hernandez,Summer
+Ben-Hur,17000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Franklin, Santana and Hubbard",Spring
+Butch Cassidy and the Sundance Kid,99000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Chapman-Rice,Winter
+Baby,98000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Fritz, Mitchell and Hubbard",Summer
+Warrior,153000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Morales Group,Winter
+Il conformista,120000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Bowman, Medina and Richardson",Winter
+Manchester by the Sea,136000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Ellison-Johnson,Winter
+Klaus,65000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Costa PLC,Fall
+Rope,142000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Freeman Group,Winter
+Heat,3000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hines-Smith,Fall
+The Silence of the Lambs,175000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Hoffman, Huerta and Brown",Spring
+Brokeback Mountain,185000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Huynh, Lopez and Adams",Spring
+The Gold Rush,30000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,White-Evans,Summer
+Central do Brasil,175000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Rivera-Mcclure,Summer
+The French Connection,138000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Johnson-Dominguez,Fall
+Dom za vesanje,193000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Farmer-Nielsen,Spring
+The Longest Day,69000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Williams-Dunlap,Summer
+Gangs of Wasseypur,197000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Dixon, Lewis and Miles",Summer
+Raging Bull,165000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Lopez PLC,Summer
+Pulp Fiction,88000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Salazar-Martinez,Spring
+Gravity,29000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Hurst, Ortega and Watts",Summer
+Before Midnight,76000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Marquez, Beltran and Matthews",Spring
+The Shining,112000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Lane LLC,Winter
+Moneyball,41000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Lopez-Clark,Winter
+A Little Princess,117000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Adams LLC,Winter
+Munna Bhai M.B.B.S.,1000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Phillips-Garcia,Fall
+Shutter Island,185000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Martin, Rodriguez and Mckinney",Spring
+Das Experiment,185000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Reed PLC,Summer
+Million Dollar Baby,68000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Adams, Bailey and Lee",Fall
+Kahaani,129000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Higgins-Jensen,Fall
+La Vie En Rose,196000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mcdowell-Wilson,Winter
+C.R.A.Z.Y.,46000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Gibson Ltd,Spring
+"Three Billboards Outside Ebbing, Missouri",130000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Green, Mejia and Perez",Summer
+Giù la testa,28000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Peterson Inc,Fall
+3:10 to Yuma,161000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mccoy LLC,Summer
+Det sjunde inseglet,77000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Walker Ltd,Winter
+The Usual Suspects,164000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Vargas Inc,Spring
+Badlands,130000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hunter Inc,Summer
+Scarface,156000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Phillips, Jordan and Jackson",Summer
+Le passé,51000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Hayes, Garner and Miller",Fall
+Kimi no na wa.,40000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Garcia-Johnson,Summer
+Akira,96000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Cross, Boone and Sweeney",Spring
+The Night of the Hunter,196000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Butler-Davis,Spring
+Frost/Nixon,42000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hernandez PLC,Summer
+From Here to Eternity,139000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Barker and Sons,Fall
+Saving Private Ryan,200000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Rodriguez, Lopez and Butler",Fall
+Call Me by Your Name,136000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Jacobs PLC,Winter
+Le charme discret de la bourgeoisie,1000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Morales-Moore,Spring
+A Christmas Story,154000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Ray, Smith and Peterson",Winter
+The Hobbit: An Unexpected Journey,83000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hanson LLC,Fall
+La planète sauvage,126000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Burns and Sons,Winter
+Dead Man's Shoes,5000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Simpson, Fernandez and Robinson",Fall
+The Imitation Game,29000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Armstrong LLC,Winter
+Modern Times,93000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Garza and Sons,Winter
+Ying xiong,79000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Holmes Inc,Spring
+Toy Story 2,62000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Green and Sons,Spring
+The Secret of Kells,15000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Garcia-Bell,Winter
+Harry Potter and the Goblet of Fire,62000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Peterson Inc,Fall
+Ba wang bie ji,146000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Mcbride, Little and Underwood",Fall
+Short Cuts,21000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Anderson PLC,Spring
+Key Largo,22000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hernandez PLC,Spring
+The Color Purple,188000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Marquez, Downs and Aguirre",Summer
+Empire of the Sun,125000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Swanson Ltd,Spring
+Mimi wo sumaseba,18000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Sandoval-Carter,Fall
+A Streetcar Named Desire,195000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mckinney LLC,Spring
+Hamilton,137000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Villarreal-Moore,Summer
+Bringing Up Baby,197000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Bailey-Sims,Winter
+Amour,33000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Small, Miller and Glover",Winter
+Nosferatu,33000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Anderson, Brown and Crosby",Fall
+Vivre sa vie: Film en douze tableaux,169000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Graham and Sons,Summer
+Ratatouille,122000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,West-Sanchez,Winter
+The Great Dictator,141000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Irwin-Pacheco,Winter
+Coco,43000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Peterson-Martin,Spring
+Diarios de motocicleta,68000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Vasquez-Garcia,Winter
+Pink Floyd: The Wall,136000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Boyd Inc,Fall
+Viskningar och rop,156000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mccall-Smith,Winter
+The Pursuit of Happyness,109000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Garcia, Boyer and Gibson",Fall
+Slumdog Millionaire,55000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Roth Ltd,Fall
+The Maltese Falcon,139000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Avila-Smith,Spring
+The Deer Hunter,194000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Curtis Ltd,Summer
+"Il buono, il brutto, il cattivo",187000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Williams, Carlson and Park",Fall
+Judgment at Nuremberg,177000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Lewis, Palmer and Grant",Winter
+Casino Royale,52000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Wallace Inc,Winter
+The Florida Project,183000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hernandez LLC,Fall
+Taken,80000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Murphy, Holder and Scott",Winter
+Mad Max: Fury Road,103000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Smith-Johnson,Spring
+Forushande,172000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Gates, Wilson and Perez",Winter
+My Cousin Vinny,167000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Robinson-Hill,Spring
+Hana-bi,96000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Villarreal Ltd,Fall
+The Lion in Winter,113000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Knox-Gomez,Fall
+Rogue One,133000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Thompson-Gordon,Fall
+Tôkyô goddofâzâzu,116000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Anderson, Perry and Burnett",Spring
+The Message,31000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Boone-Olsen,Winter
+Batman: Mask of the Phantasm,64000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Wilson and Sons,Spring
+Glory,58000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Richardson, Ramos and Scott",Winter
+Little Women,17000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Diaz PLC,Winter
+The African Queen,87000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Holmes, Wallace and Marsh",Spring
+Twelve Monkeys,6000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Kim-Garcia,Summer
+Eskiya,151000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Barnes, Kaufman and Kennedy",Fall
+The Sixth Sense,142000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Eaton LLC,Winter
+Serenity,59000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Williams LLC,Winter
+Victoria,151000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Kim-Williams,Spring
+Boyz n the Hood,57000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Kennedy, Dickson and Morrow",Summer
+Mou gaan dou,2000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Craig-Ramirez,Fall
+Kagemusha,19000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Fuller, Mays and Spencer",Summer
+Apocalypse Now,182000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Graves, Ross and Wilson",Fall
+A Clockwork Orange,162000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Jones, Gonzalez and Fox",Winter
+Moonrise Kingdom,16000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Ball LLC,Winter
+Lost Highway,59000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Turner, Rodriguez and Stone",Spring
+Knockin' on Heaven's Door,18000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Medina, Brown and Wood",Spring
+Full Metal Jacket,9000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Wood-Jenkins,Summer
+2001: A Space Odyssey,85000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Oneal Group,Summer
+Young Frankenstein,19000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Suarez Ltd,Fall
+My Left Foot: The Story of Christy Brown,132000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Aguirre Ltd,Spring
+The Grapes of Wrath,61000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Wood and Sons,Winter
+Tenkû no shiro Rapyuta,72000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Lee Group,Spring
+Babam ve Oglum,172000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hall Ltd,Summer
+Watchmen,125000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Vazquez Ltd,Spring
+Jodaeiye Nader az Simin,55000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Johnson Ltd,Winter
+Short Term 12,139000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Hall, Benjamin and Hernandez",Spring
+Close Encounters of the Third Kind,34000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Lang LLC,Summer
+Inside Man,186000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Holland-Schmidt,Winter
+"Synecdoche, New York",147000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Moore-Colon,Fall
+Ajeossi,148000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Davis, Walters and Miller",Fall
+About Time,122000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Perez Inc,Winter
+Män som hatar kvinnor,63000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Walters Inc,Winter
+Eternal Sunshine of the Spotless Mind,122000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Smith, Ford and Fuller",Winter
+Forrest Gump,105000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mitchell Ltd,Summer
+Groundhog Day,49000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Coleman-Beard,Winter
+Manhattan,25000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Wright, Fox and Sanchez",Summer
+The Lion King,25000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Martinez, Villanueva and Richards",Winter
+Léon,169000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Ward PLC,Summer
+The Martian,111000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Lee-Smith,Summer
+Unforgiven,91000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Dodson, Alexander and Horn",Spring
+The Fall,109000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Vaughn-James,Fall
+The Invisible Man,106000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Zimmerman, Lopez and Vincent",Winter
+La migliore offerta,120000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Flores Ltd,Fall
+Gake no ue no Ponyo,187000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Castillo, Taylor and Allen",Fall
+Bacheha-Ye aseman,14000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Bowman, Graham and Mitchell",Spring
+Planet of the Apes,173000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Gillespie LLC,Fall
+Monty Python and the Holy Grail,168000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Travis, Mendoza and Thomas",Fall
+Les diaboliques,166000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Miller, Austin and Harmon",Winter
+Dog Day Afternoon,26000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Frye Ltd,Summer
+Sabrina,16000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Huber LLC,Winter
+Just Mercy,104000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Shepherd, Fischer and Hernandez",Winter
+Down by Law,187000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Miller LLC,Fall
+Sholay,87000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Conway, Munoz and Lamb",Fall
+The Nightmare Before Christmas,28000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Griffith Ltd,Winter
+La piel que habito,64000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Patel-Maxwell,Winter
+Billy Elliot,50000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Montgomery, Turner and Stevens",Fall
+Sleepers,49000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Acevedo-Robertson,Summer
+The Killing Fields,138000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Stewart Group,Summer
+Magnolia,115000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hampton PLC,Winter
+Mulan,36000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Finley-Long,Summer
+Skyfall,109000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Owen-Allen,Winter
+La haine,47000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Briggs LLC,Spring
+Amarcord,72000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Johnson-Garcia,Fall
+Special Chabbis,119000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hanson LLC,Winter
+Goodfellas,64000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Allen-Clark,Winter
+Airlift,20000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Reyes Ltd,Winter
+Papurika,114000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Cox and Sons,Summer
+Prisoners,141000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Moreno, Phelps and Turner",Winter
+The Great Escape,26000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Leonard and Sons,Spring
+The Warriors,13000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Butler PLC,Summer
+Cidade de Deus,167000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Murphy, Murray and Taylor",Fall
+Tropa de Elite,139000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Padilla, Andrade and Glass",Spring
+Lat sau san taam,4000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Le-Cruz,Winter
+Goldfinger,24000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Solis Inc,Spring
+Blade Runner 2049,193000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"King, Armstrong and Buchanan",Winter
+Per un pugno di dollari,61000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Scott-Hart,Spring
+Hiroshima mon amour,43000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Coffey, Harper and Ortiz",Summer
+Der Name der Rose,105000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Zuniga-Campbell,Winter
+Room,125000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Stone PLC,Summer
+Adams æbler,124000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Mccormick, Garcia and Wallace",Spring
+Inglourious Basterds,55000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Ortiz-Lee,Winter
+Miracle on 34th Street,103000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Gonzalez LLC,Fall
+Oldeuboi,16000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Jones LLC,Fall
+American Gangster,43000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hampton Group,Winter
+Paper Moon,98000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Hoover, Harris and Cortez",Spring
+Halloween,1000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Chase, Vargas and Floyd",Fall
+The Hustler,100000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Butler-Davis,Winter
+Rang De Basanti,68000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Davis PLC,Fall
+Alien,117000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Garrett Ltd,Winter
+Kingsman: The Secret Service,74000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Thomas-Nichols,Spring
+Roman Holiday,109000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Martinez-Nguyen,Spring
+Tôkyô monogatari,179000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Peterson, Nichols and Scott",Summer
+The Thing,188000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Torres, Brown and Alvarez",Fall
+Taegukgi hwinalrimyeo,143000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Jacobs-Burnett,Summer
+Låt den rätte komma in,170000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Miller, Miranda and Cooper",Spring
+The Apartment,184000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Turner-Pearson,Winter
+28 Days Later...,125000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Moses Inc,Spring
+Nueve reinas,40000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Day, Smith and Welch",Spring
+Fried Green Tomatoes,49000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Lam-Michael,Winter
+Vicky Donor,76000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Oliver-Galvan,Summer
+Metropolis,56000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Stewart-Williams,Fall
+Lawrence of Arabia,15000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Rodriguez-Jones,Spring
+Thor: Ragnarok,149000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Edwards, Scott and Long",Spring
+The Conversation,189000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Pitts Inc,Fall
+Dangal,139000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Johnson PLC,Spring
+Cape Fear,16000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Oliver, Sanchez and Santiago",Fall
+Zombieland,192000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Cox-Lowery,Fall
+Kill Bill: Vol. 2,81000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Collins LLC,Fall
+Platoon,15000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Padilla and Sons,Winter
+Hotaru no haka,13000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Christian-Baker,Summer
+Darbareye Elly,150000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Bailey, Clark and Howe",Summer
+Portrait de la jeune fille en feu,123000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Medina PLC,Winter
+The 39 Steps,129000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Campbell, Ortega and Jones",Summer
+Blue Velvet,136000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Stafford and Sons,Summer
+The Broken Circle Breakdown,41000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Bell, Villegas and Olsen",Summer
+In the Name of the Father,15000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Lane, Smith and Hogan",Spring
+La Strada,131000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Gonzalez-Hamilton,Winter
+Back to the Future Part II,21000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Richardson, Torres and Cunningham",Summer
+The Bridge on the River Kwai,48000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Newton LLC,Winter
+Her,18000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Holmes Ltd,Summer
+Apollo 13,153000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,George-Martinez,Summer
+There Will Be Blood,18000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Wagner, Morrison and Butler",Winter
+Citizen Kane,173000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Stephenson, Richardson and Smith",Fall
+Good Bye Lenin!,61000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Smith, Porter and Vazquez",Winter
+Casablanca,104000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Dodson Ltd,Fall
+Nefes: Vatan Sagolsun,31000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Braun LLC,Spring
+Harry Potter and the Half-Blood Prince,146000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Robinson, Hughes and Mann",Winter
+Paan Singh Tomar,64000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Torres Inc,Fall
+Hunt for the Wilderpeople,149000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Herrera, Thomas and Mason",Summer
+Aladdin,153000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Stevenson, Richardson and Clark",Spring
+Apocalypto,11000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Baldwin-Martin,Winter
+The General,159000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Durham Group,Fall
+Gisaengchung,21000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Phillips, Harris and Taylor",Fall
+Donnie Brasco,108000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"David, Reeves and Williams",Winter
+Black Hawk Down,169000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Norman Ltd,Fall
+Le dîner de cons,150000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mitchell and Sons,Winter
+Der Himmel über Berlin,145000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Wood, Arias and Thompson",Fall
+La montaña sagrada,134000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Hall, Powers and Castillo",Summer
+Atonement,81000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Brown Inc,Winter
+The Pianist,67000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Parrish, Nguyen and Price",Winter
+Höstsonaten,53000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Vaughn-Simon,Spring
+"Monsters, Inc.",172000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Bean Group,Summer
+Who Framed Roger Rabbit,184000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mack-Ryan,Winter
+Night on Earth,81000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Lopez-Hammond,Fall
+(500) Days of Summer,62000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Morse, Briggs and Nolan",Fall
+A Man for All Seasons,68000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Donovan, Reid and Barnes",Fall
+Black,102000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Kelly PLC,Spring
+Le samouraï,34000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Potts PLC,Winter
+Ang-ma-reul bo-at-da,172000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Byrd, Murphy and Kelly",Fall
+The Gentlemen,166000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Cameron-Walton,Spring
+Midnight in Paris,77000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Smith-Lara,Spring
+One Flew Over the Cuckoo's Nest,118000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Rodriguez, Weaver and Brown",Winter
+The Kid,81000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Orozco-Morales,Fall
+Badhaai ho,193000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Ware, White and Jackson",Summer
+Fargo,19000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Lloyd, Robertson and Huang",Fall
+Ed Wood,3000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Patel PLC,Summer
+Dead Man,118000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Klein, White and Anderson",Summer
+All About Eve,160000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Jones, Mack and Richardson",Fall
+Per qualche dollaro in più,145000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,King-Shah,Summer
+The Boy in the Striped Pyjamas,26000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Hawkins, Lang and Williams",Spring
+Straight Outta Compton,19000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Ibarra-Ray,Spring
+To Kill a Mockingbird,138000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hernandez LLC,Fall
+Kakushi-toride no san-akunin,55000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Lucas, Moore and Fuller",Winter
+Changeling,130000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Garrett Ltd,Spring
+Shadow of a Doubt,68000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Young Group,Fall
+Wind River,34000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Meyer PLC,Summer
+Ghostbusters,90000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Williams, Rodriguez and Cantu",Spring
+Lethal Weapon,18000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Gutierrez-Underwood,Fall
+Boogie Nights,63000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Palmer and Sons,Fall
+The Muppet Movie,95000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,White Ltd,Winter
+Nuovo Cinema Paradiso,73000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Harris-Matthews,Summer
+Celda 211,41000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Hernandez, Chavez and Carter",Summer
+Der Untergang,113000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Johnson-Smith,Summer
+Deliverance,140000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Powell, Poole and Payne",Fall
+Die Hard,181000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Diaz-Harrington,Fall
+Star Wars: Episode V - The Empire Strikes Back,78000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Rivera, Rodriguez and Carter",Summer
+The Bourne Identity,157000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Parks-Deleon,Fall
+Once Upon a Time in the West,168000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Flores-Tanner,Winter
+Omohide poro poro,136000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Glover-Hodge,Fall
+Finding Neverland,3000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Wheeler LLC,Fall
+Mulholland Dr.,171000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Leblanc Group,Spring
+The Hurricane,142000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Williams, Newman and Campos",Winter
+Bir Zamanlar Anadolu'da,77000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Gibbs, Robinson and Hawkins",Spring
+Chinatown,170000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Gonzales Group,Summer
+Scarface: The Shame of the Nation,27000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Watts, Boyd and Kelly",Summer
+Dark Waters,35000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Harris, Rogers and Moore",Winter
+Gran Torino,68000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Miller, Salazar and Flynn",Fall
+La vita è bella,30000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Trujillo-Hunt,Spring
+Lola rennt,28000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Atkins-Hall,Winter
+Anatomy of a Murder,191000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Pena-Khan,Spring
+Minority Report,142000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Wiley, Patterson and Gamble",Fall
+Sin City,40000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Wilson, Fields and Herrera",Spring
+Mary and Max,70000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Jones, Rhodes and Smith",Winter
+The Departed,73000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Cook PLC,Fall
+The Bridges of Madison County,155000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Gross Ltd,Fall
+Kal Ho Naa Ho,54000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Paul-Brown,Winter
+Isle of Dogs,184000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Miles LLC,Fall
+Trois couleurs: Blanc,88000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mason-Oneal,Spring
+Enter the Dragon,53000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Frank-Allen,Summer
+Mary Poppins,176000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Wilson-Thompson,Winter
+Ordinary People,163000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Taylor PLC,Spring
+Sherlock Jr.,68000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Austin Ltd,Fall
+Where Eagles Dare,130000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Jones PLC,Summer
+Peeping Tom,126000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Bass Group,Spring
+Shaun of the Dead,65000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Simmons-Burns,Winter
+Dazed and Confused,14000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Guzman, Morrison and Cooper",Fall
+Withnail & I,24000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Chapman, Kramer and Martinez",Winter
+M.S. Dhoni: The Untold Story,163000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Garcia, Guzman and Berg",Spring
+Falling Down,109000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Khan-Wilson,Summer
+L.A. Confidential,71000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Ramirez-Mueller,Spring
+Kick-Ass,12000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Green-Knight,Spring
+V for Vendetta,1000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Delgado-Lamb,Fall
+Happiness,86000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Hicks, Salazar and Wells",Winter
+Blowup,198000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Aguirre, Hunt and Green",Spring
+Harry Potter and the Deathly Hallows: Part 1,34000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Ortiz-Ayala,Spring
+Taxi Driver,164000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Glenn PLC,Summer
+Harry Potter and the Deathly Hallows: Part 2,68000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Wang-Bell,Summer
+E.T. the Extra-Terrestrial,42000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mcintyre-Martin,Winter
+Reservoir Dogs,190000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Clark Ltd,Winter
+The Last Picture Show,114000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Krueger Inc,Fall
+The Exorcist,142000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Herman, Pittman and Mathis",Winter
+The Hangover,181000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Howard, Smith and Moss",Summer
+Loving Vincent,110000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Perez-Davis,Winter
+Lost in Translation,144000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Cooke Group,Spring
+Majo no takkyûbin,3000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Smith, Johnson and Davis",Winter
+Vertigo,29000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Saunders Inc,Winter
+Capharnaüm,20000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Galvan Group,Fall
+Toy Story 3,177000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Gates PLC,Spring
+Do the Right Thing,39000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Rodriguez-Wright,Fall
+The Royal Tenenbaums,140000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Berry-Robinson,Summer
+PK,10000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Powell, Higgins and Conner",Winter
+What's Eating Gilbert Grape,95000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hurst Group,Winter
+Rupan sansei: Kariosutoro no shiro,150000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hamilton-Yang,Summer
+Death Note: Desu nôto,142000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Banks PLC,Fall
+Inception,38000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Cook-Moreno,Spring
+The Fifth Element,111000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Juarez-Ross,Fall
+The Prestige,33000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Oconnor-Smith,Fall
+Brief Encounter,11000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Trujillo, Gutierrez and Miller",Spring
+Shrek,79000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Benson Group,Winter
+Fa yeung nin wah,94000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Phillips-Barber,Fall
+Kumonosu-jô,11000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Barnett, Myers and Cochran",Summer
+Star Trek Into Darkness,92000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Branch, Ball and Kelly",Spring
+Sound of Metal,54000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Graham PLC,Winter
+Avatar,175000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Rose, Williams and Carroll",Spring
+Me and Earl and the Dying Girl,64000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Payne, Wood and Christensen",Summer
+Incredibles 2,171000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Solis-Phillips,Spring
+Jurassic Park,27000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Parker, Foley and Schultz",Spring
+Das weiße Band - Eine deutsche Kindergeschichte,91000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Schmidt-Jefferson,Fall
+Jungfrukällan,200000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Decker, Medina and Gates",Summer
+Annie Hall,144000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Ramirez PLC,Summer
+Pan's Labyrinth,105000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Walker LLC,Summer
+I Am Sam,159000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Sanchez-Hudson,Spring
+Les triplettes de Belleville,192000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Jackson-Taylor,Summer
+Only the Brave,40000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Hill, Davis and Wilson",Summer
+L'avventura,61000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Robinson and Sons,Summer
+Mustang,42000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Stevens Group,Fall
+District 9,46000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Franklin, Chen and Black",Summer
+The Wolf of Wall Street,106000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Flores, Lee and Jones",Spring
+Up,7000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Murphy, Martinez and Hendricks",Fall
+Roma,46000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mcdaniel-Murray,Summer
+Lord of War,189000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hicks LLC,Summer
+Nebraska,86000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Soto-Garcia,Fall
+Tombstone,106000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Boyle PLC,Summer
+Deadpool,172000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Cruz-Hampton,Spring
+Knives Out,189000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Smith-Rodriguez,Spring
+Bajrangi Bhaijaan,64000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Washington Group,Summer
+Du rififi chez les hommes,69000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Gould-Evans,Spring
+Double Indemnity,41000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Kelly-Williamson,Fall
+Dirty Harry,180000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Forbes, Smith and Martin",Summer
+Chugyeokja,28000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hernandez-Jacobson,Fall
+El secreto de sus ojos,98000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Matthews, Ruiz and Lowery",Spring
+Funny Games,10000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Sanders LLC,Summer
+Koe no katachi,121000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Ellis-Lopez,Fall
+The Hobbit: The Desolation of Smaug,57000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Cole, Ramos and Lopez",Spring
+Rocky,52000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Solomon, Martin and Moore",Summer
+What Ever Happened to Baby Jane?,118000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Rogers and Sons,Winter
+JFK,90000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Sparks, Knight and Miller",Spring
+Ladri di biciclette,79000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"King, Ellis and Smith",Spring
+Some Like It Hot,59000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Morris Inc,Winter
+Logan,58000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Jones-Frye,Winter
+Touch of Evil,7000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,White-Thomas,Fall
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",169000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Ramirez Group,Spring
+Jaws,50000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Clark PLC,Winter
+Saw,103000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Scott Ltd,Summer
+Efter brylluppet,85000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Barrera-Jacobs,Spring
+Despicable Me,72000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Gomez LLC,Fall
+The Purple Rose of Cairo,18000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Lucas Ltd,Winter
+Guardians of the Galaxy Vol. 2,198000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Simon Inc,Spring
+Uri: The Surgical Strike,72000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Barnett PLC,Spring
+The Notebook,90000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Collier Inc,Winter
+Dances with Wolves,165000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Hall, Velasquez and Owen",Winter
+The Last Samurai,131000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Macdonald, Martin and Wells",Winter
+Control,103000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Nelson-Mcclure,Spring
+Kai po che!,174000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Wolfe, Flowers and Martinez",Winter
+Die Welle,138000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Johnston-Winters,Winter
+Song of the Sea,85000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Riley-Bell,Spring
+Gongdong gyeongbi guyeok JSA,8000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Smith, Anderson and Garrett",Spring
+The Blind Side,30000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Cooper-Stevenson,Fall
+Silver Linings Playbook,67000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Carlson Inc,Summer
+As Good as It Gets,46000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hayes PLC,Spring
+Stardust,149000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Christensen, Dennis and Kennedy",Summer
+Mr. Nobody,68000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Briggs, Hopkins and Savage",Fall
+Gilda,10000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Rodriguez, Harris and Martin",Fall
+Flipped,28000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Sandoval PLC,Winter
+Pâfekuto burû,153000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Castro-Benjamin,Fall
+Delicatessen,112000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Kramer Inc,Winter
+No Man's Land,89000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Harrington and Sons,Winter
+Stand by Me,187000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Jones-Richards,Spring
+The Muppet Christmas Carol,81000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Brady and Sons,Spring
+The Killing,112000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Anderson PLC,Summer
+Letters from Iwo Jima,156000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Herrera, Bridges and Thomas",Winter
+The Sting,131000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Johnson, Blanchard and Harvey",Winter
+The Outlaw Josey Wales,30000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Howard, Oconnell and Martinez",Summer
+No Country for Old Men,99000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Bates-Mckenzie,Winter
+The Ladykillers,148000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Chambers, Lambert and Black",Fall
+Madeo,49000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Thompson-Cardenas,Winter
+Awakenings,66000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Klein PLC,Winter
+Cinderella Man,12000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Reese-Bradley,Winter
+On Golden Pond,182000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Lewis, Burke and Adams",Spring
+Airplane!,112000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Wood Inc,Fall
+Lage Raho Munna Bhai,1000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Webb and Sons,Winter
+The Magdalene Sisters,134000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Clark Ltd,Fall
+Mississippi Burning,138000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Watkins Inc,Fall
+La passion de Jeanne d'Arc,176000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Swanson-Banks,Fall
+The Boondock Saints,185000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Peterson Group,Summer
+The Terminator,190000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Johnson, Tucker and Forbes",Winter
+Dawn of the Planet of the Apes,189000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Compton Inc,Spring
+Red River,172000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Lee-Jenkins,Spring
+Persepolis,51000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Sheppard Ltd,Spring
+Dilwale Dulhania Le Jayenge,94000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Oconnell Inc,Spring
+The Lego Movie,111000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Rogers-Carey,Winter
+Hot Fuzz,18000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Brown LLC,Spring
+The World's Fastest Indian,171000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Salinas-Manning,Fall
+Zerkalo,85000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Ferguson LLC,Summer
+Pirates of the Caribbean: The Curse of the Black Pearl,160000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Hurley, Bass and Davis",Spring
+Dancer in the Dark,81000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Thomas, Butler and Ford",Fall
+A Wednesday,170000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Walker Ltd,Spring
+American Psycho,32000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Castillo, Jackson and Small",Winter
+Do lok tin si,185000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Bailey-Wolfe,Fall
+Sing Street,77000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Garcia-Hughes,Winter
+The Help,130000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Rivera and Sons,Spring
+Mystic River,80000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Palmer-Grant,Fall
+Lilja 4-ever,171000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Williamson Group,Fall
+Midnight Express,105000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Williams PLC,Fall
+300,84000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Aguirre, Howard and Wolfe",Spring
+Hævnen,104000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Rogers-Allen,Summer
+Auf der anderen Seite,179000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Foster PLC,Summer
+The Odd Couple,76000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Gay, Gonzales and Allen",Winter
+Rushmore,142000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Aguirre-Carter,Summer
+Wo hu cang long,33000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Sexton, Lucas and Duncan",Spring
+Love and Death,50000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mcguire-Wilson,Fall
+Strangers on a Train,108000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Morton and Sons,Fall
+Fear and Loathing in Las Vegas,171000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Smith Ltd,Spring
+Udta Punjab,98000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Yu Ltd,Fall
+Ocean's Eleven,174000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Myers, Wilson and Rodriguez",Summer
+Tumbbad,192000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Brock-Wilson,Winter
+Finding Nemo,45000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Moon Ltd,Spring
+Willy Wonka & the Chocolate Factory,158000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Diaz LLC,Fall
+A Beautiful Mind,146000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Alvarado-Gillespie,Spring
+Edward Scissorhands,78000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Carlson PLC,Summer
+The Intouchables,104000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Reeves Group,Fall
+"Aguirre, der Zorn Gottes",141000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"White, Benson and Miller",Fall
+Tonari no Totoro,1000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Sweeney LLC,Fall
+Gattaca,78000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Williams PLC,Fall
+Bridge of Spies,74000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hernandez-Whitaker,Spring
+Belle de jour,54000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Ortega, Higgins and Kaufman",Summer
+The Taking of Pelham One Two Three,111000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Medina Ltd,Summer
+Batoru rowaiaru,149000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Mcgee, Miller and Gonzalez",Winter
+Birdman or (The Unexpected Virtue of Ignorance),156000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Williams PLC,Spring
+Amélie,168000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Silva-Hall,Summer
+His Girl Friday,83000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Salazar-Johnson,Spring
+Dil Chahta Hai,120000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Larson PLC,Spring
+Detachment,114000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,King-Nolan,Summer
+Perfetti sconosciuti,114000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mayo-Bailey,Winter
+Days of Heaven,173000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Diaz, Hill and Ponce",Winter
+The Thin Man,55000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Anderson-Ross,Winter
+The Searchers,131000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Bowman-Morgan,Fall
+Baby Driver,122000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Bradshaw, Johnson and Lucas",Summer
+Kis Uykusu,189000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Henderson LLC,Fall
+Secrets & Lies,44000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Bentley, Arnold and Mills",Fall
+Hedwig and the Angry Inch,169000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Brown Ltd,Fall
+Bound by Honor,22000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Mccormick, Wagner and Church",Spring
+The Last King of Scotland,73000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Becker, Knight and Thomas",Spring
+Blazing Saddles,132000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Adams-Weiss,Summer
+Ford v Ferrari,170000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Huffman-Shelton,Summer
+12 Angry Men,163000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Campos Ltd,Spring
+Lucky Number Slevin,159000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Miller LLC,Spring
+The Count of Monte Cristo,86000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Marshall-Atkins,Fall
+Match Point,24000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Johnson, Brown and Proctor",Winter
+The Trial of the Chicago 7,193000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Chase-Scott,Winter
+Rockstar,61000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Bryan LLC,Winter
+In the Heat of the Night,173000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Hancock, Mendez and Cole",Winter
+Mission: Impossible - Fallout,80000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Cordova-Graham,Winter
+The Breakfast Club,58000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Nelson, Williams and Dunn",Fall
+American Beauty,51000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Bishop-Bates,Summer
+Abre los ojos,38000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Harris-Daniels,Spring
+What We Do in the Shadows,7000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Perez-Harris,Fall
+Dunkirk,12000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hall-Thomas,Winter
+The Princess Bride,63000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Powell, Wagner and Caldwell",Spring
+Iron Man,122000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Young-Moore,Fall
+Back to the Future,157000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Blair-Scott,Winter
+It's a Wonderful Life,197000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Kelly Inc,Fall
+Ray,19000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Willis PLC,Spring
+Star Trek II: The Wrath of Khan,117000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Roberts-Martinez,Summer
+Mommy,107000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Duncan LLC,Winter
+Baahubali 2: The Conclusion,162000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Perez Group,Spring
+Se7en,148000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Sweeney, Rodriguez and Johnson",Spring
+Nelyubov,50000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Gray, Cohen and Martin",Summer
+How to Train Your Dragon,184000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Gray-Blanchard,Fall
+The Wrestler,179000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Jackson, Dennis and Wyatt",Summer
+Zwartboek,99000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Hammond, Myers and Washington",Summer
+The Incredibles,127000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Anderson, Smith and Ingram",Fall
+Cool Hand Luke,103000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hill-Parker,Fall
+Papillon,63000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Reese-Levy,Fall
+Dip huet seung hung,38000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Patel Ltd,Spring
+Sling Blade,168000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Park-Cruz,Spring
+Big Hero 6,177000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Romero-Warren,Winter
+Life of Pi,2000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Sawyer-Rodriguez,Winter
+Mandariinid,193000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Fowler-Velazquez,Summer
+Django Unchained,198000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Conway-Figueroa,Summer
+Captain Fantastic,28000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Tanner-Richardson,Winter
+Cast Away,200000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Reed-Dalton,Summer
+Chhichhore,109000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Stone-Nelson,Fall
+The Little Mermaid,57000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Marshall, Powell and Lewis",Spring
+True Romance,46000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Jimenez-Potter,Winter
+The Verdict,179000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Vance-Stephenson,Spring
+Sense and Sensibility,133000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Duncan-Stewart,Winter
+3 Idiots,119000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Webb-Hardy,Spring
+Hamlet,13000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Montes, Maldonado and Meyer",Winter
+The Matrix,143000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,King Inc,Spring
+"Swades: We, the People",64000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mitchell-Ross,Fall
+American History X,32000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Scott Group,Winter
+"4 luni, 3 saptamâni si 2 zile",117000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Owens-Brown,Winter
+Yeopgijeogin geunyeo,35000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Martinez-Davis,Winter
+Dial M for Murder,119000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Watson, Williams and Mueller",Fall
+This Is England,171000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Sanders, Jones and Leach",Spring
+Rush,136000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Mccullough and Sons,Winter
+Road to Perdition,144000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Erickson, Miles and Johnson",Spring
+City Lights,153000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Ramos, Marshall and Owens",Fall
+Searching,82000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Castro, Frazier and Valdez",Summer
+Serbuan maut 2: Berandal,194000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Barr, Vazquez and Clark",Winter
+The Social Network,114000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Harrison PLC,Fall
+Frankenstein,157000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Turner PLC,Spring
+Get Out,185000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Chung, Mcpherson and Munoz",Winter
+The Man Who Shot Liberty Valance,130000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Hernandez, Wells and Brewer",Spring
+Guess Who's Coming to Dinner,110000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Reynolds-Gray,Summer
+"Crna macka, beli macor",141000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Mason, Long and Brock",Winter
+En man som heter Ove,115000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Fuentes PLC,Winter
+All Quiet on the Western Front,41000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Carroll PLC,Spring
+Arsenic and Old Lace,191000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,White-Houston,Winter
+Giant,122000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Werner, Lozano and Richard",Fall
+Il postino,116000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Perez, Montgomery and Wilson",Fall
+The Birds,67000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Barry and Sons,Summer
+"Paris, Texas",193000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Davis-Morris,Fall
+Haider,64000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Stephens-Hodge,Summer
+"Lock, Stock and Two Smoking Barrels",164000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Young LLC,Spring
+High Noon,71000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Jones, Barker and Kim",Spring
+The Theory of Everything,197000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Nolan-Benton,Summer
+Beauty and the Beast,200000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Avery LLC,Fall
+Bonnie and Clyde,134000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Smith-Villegas,Fall
+Arrival,125000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Simmons-Baker,Summer
+The Last of the Mohicans,161000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Blankenship PLC,Summer
+Tangled,62000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Mcbride, Wolfe and Diaz",Spring
+Idi i smotri,71000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Andersen, Smith and Parsons",Summer
+A Night at the Opera,113000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Miller, Harris and Barron",Fall
+The Iron Giant,20000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Russell, Huerta and Villa",Summer
+The Godfather,183000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Henry-Mccoy,Summer
+The Station Agent,74000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hernandez PLC,Summer
+Mad Max 2,61000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Tyler-Hale,Spring
+The Lost Weekend,70000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Summers-Beck,Summer
+Paths of Glory,86000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Fisher, Moss and Mitchell",Winter
+Soul,82000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Yoder, Anderson and Richards",Winter
+Whiplash,139000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Reynolds-Walker,Winter
+Crash,21000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Morris, Keller and Clark",Fall
+Hable con ella,36000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Bryant, Gomez and Morgan",Fall
+The Graduate,39000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Burke PLC,Summer
+The Best Years of Our Lives,60000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Brennan, Marshall and Salazar",Winter
+G.O.R.A.,99000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Becker PLC,Spring
+Miracle in cell NO.7,178000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Young PLC,Winter
+Guardians of the Galaxy,40000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Browning-Clark,Winter
+Philomena,181000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Smith, Webster and Simmons",Fall
+The Adventures of Robin Hood,55000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Thompson-Howard,Fall
+Tropa de Elite 2: O Inimigo Agora é Outro,17000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Phillips-Romero,Spring
+Kung fu,107000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Gregory, Jones and Huff",Fall
+Kill Bill: Vol. 1,105000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Kane PLC,Spring
+The Lord of the Rings: The Two Towers,85000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Marquez LLC,Fall
+La Grande Illusion,139000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Smith-Smith,Winter
+The Big Short,120000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Simpson Inc,Winter
+Festen,107000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Wilson-Russell,Spring
+Fitzcarraldo,16000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Khan-Ross,Spring
+Andaz Apna Apna,53000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,May PLC,Fall
+First Blood,108000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Reynolds Ltd,Fall
+The Jungle Book,100000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Malone LLC,Spring
+Todo sobre mi madre,198000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Wilkins-Smith,Spring
+Philadelphia,150000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Harris LLC,Winter
+The Irishman,179000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Smith-Rogers,Winter
+Blood Simple,6000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Braun Inc,Spring
+Gegen die Wand,196000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Thomas PLC,Winter
+The Last Emperor,148000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Yates-Rogers,Summer
+Catch Me If You Can,98000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Garcia Inc,Fall
+King Kong,123000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Cruz and Sons,Winter
+Fantasia,2000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Willis, Terry and Chandler",Summer
+The Philadelphia Story,91000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Oneal LLC,Spring
+The Right Stuff,77000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Mack, Holmes and Knight",Winter
+Rashômon,193000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Maxwell, Fowler and Dillon",Spring
+Man on Fire,100000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Fleming-Snyder,Fall
+Midnight Cowboy,108000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Watkins-Morales,Spring
+Jojo Rabbit,138000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Morgan-Wolf,Summer
+The Goonies,192000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Fox-Ramos,Spring
+Cowboy Bebop: Tengoku no tobira,189000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Key LLC,Summer
+Spider-Man: Into the Spider-Verse,140000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Carpenter-Wilson,Winter
+Nightcrawler,155000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Thomas Group,Winter
+The Big Sleep,57000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Carson-Weaver,Summer
+The Dirty Dozen,125000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Rivera and Sons,Fall
+Beasts of No Nation,57000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Williams-Avery,Fall
+The Big Lebowski,70000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Contreras Group,Fall
+Interstellar,112000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Davis PLC,Winter
+Mr. Smith Goes to Washington,125000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"David, Miller and Watson",Winter
+La règle du jeu,8000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Atkins Ltd,Fall
+Hera Pheri,100000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Robinson-Vance,Spring
+The Elephant Man,87000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Lee and Sons,Fall
+The Thin Red Line,172000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Johnson, Harmon and Joseph",Spring
+The Treasure of the Sierra Madre,174000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Rodriguez, Moore and Gonzales",Fall
+The Straight Story,104000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Hall-Thomas,Spring
+Being John Malkovich,186000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Phillips and Sons,Winter
+Being There,43000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Wilson-Lambert,Fall
+Boyhood,120000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Robbins-Reed,Fall
+The Revenant,33000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Scott Inc,Summer
+Joyeux Noël,160000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Williams, Donovan and Wagner",Fall
+White Heat,137000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Reed, King and Dixon",Spring
+The Remains of the Day,7000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Parsons-Brown,Summer
+K.G.F: Chapter 1,101000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Johnson Group,Fall
+The Fugitive,152000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Burke, Lucas and Adkins",Fall
+The Quiet Man,145000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Glover-Williams,Winter
+Good Will Hunting,170000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Brown and Sons,Summer
+Mar adentro,7000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Roberts-Townsend,Spring
+Drishyam,22000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Krueger, Conrad and Wade",Fall
+The Wizard of Oz,165000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Cooper, Hunter and Mullen",Winter
+Zootopia,110000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Jones and Sons,Fall
+Barfi!,35000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Ponce PLC,Summer
+Marriage Story,119000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Martinez-Weber,Spring
+Ikiru,47000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Daniels LLC,Winter
+The Fighter,13000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Carson PLC,Fall
+Soorarai Pottru,67000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Walker LLC,Spring
+Wait Until Dark,98000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Clarke PLC,Fall
+Once Upon a Time in America,84000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Compton, Tanner and Sexton",Fall
+Aliens,55000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Brown-Johnson,Summer
+Kaze no tani no Naushika,117000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Bailey-Smith,Summer
+Zulu,84000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Lewis-Nelson,Fall
+La dolce vita,87000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,"Henderson, Taylor and Lee",Winter
+Braveheart,195000000,<function <lambda> at 0x00000168A434E0C0>,<function <lambda> at 0x00000168A43CA0C0>,Fisher-Berry,Summer

@@ -1,0 +1,801 @@
+Series_Title,Available_On,Subscription_Required,Release_Date,Price
+Star Wars,Hulu,False,2023-07-29,0.0
+Dawn of the Dead,Netflix,False,2015-06-04,0.0
+The Day of the Jackal,Hulu,False,2022-11-07,0.88
+Harvey,Amazon Prime,True,2019-10-30,0.0
+After Hours,None,False,2021-06-16,0.0
+Toy Story 4,Amazon Prime,True,2023-12-22,0.0
+Casino,HBO Max,False,2017-09-10,14.37
+Eastern Promises,Amazon Prime,False,2022-05-03,0.0
+The Man from Earth,Hulu,True,2022-05-24,0.0
+A Few Good Men,Netflix,True,2017-01-17,0.0
+Taare Zameen Par,None,True,2017-03-26,0.0
+Udaan,Netflix,False,2020-09-23,18.2
+The Illusionist,Amazon Prime,False,2015-07-27,0.0
+Miller's Crossing,Hulu,True,2017-04-18,0.0
+The Game,None,True,2015-05-11,0.0
+Bãhubali: The Beginning,Disney+,False,2025-01-08,2.22
+A Bronx Tale,HBO Max,True,2016-08-22,6.1
+La leggenda del pianista sull'oceano,None,False,2021-03-01,0.0
+50/50,Hulu,False,2023-03-01,13.21
+À bout de souffle,Amazon Prime,True,2022-01-17,19.53
+On the Waterfront,Disney+,True,2016-04-08,17.62
+La vie d'Adèle,None,False,2021-07-24,1.31
+When Harry Met Sally...,Netflix,True,2017-10-12,0.0
+Psycho,Amazon Prime,True,2021-08-01,15.89
+Hell or High Water,HBO Max,True,2015-07-12,0.0
+The Dark Knight,Disney+,True,2017-08-12,0.0
+Night of the Living Dead,Disney+,False,2018-11-08,0.0
+Dev.D,Amazon Prime,False,2018-07-25,0.0
+True Grit,Hulu,False,2017-05-05,4.89
+All the President's Men,Amazon Prime,True,2018-08-19,0.0
+The Perks of Being a Wallflower,Disney+,True,2023-02-06,0.0
+A Hard Day's Night,Netflix,False,2017-10-29,0.0
+The Artist,HBO Max,False,2020-07-15,0.0
+Hidden Figures,Netflix,False,2017-01-27,6.55
+Joker,Disney+,False,2018-02-04,0.0
+Shichinin no samurai,Netflix,True,2023-10-11,17.45
+Into the Wild,Hulu,False,2021-07-16,19.36
+Die Hard: With a Vengeance,Amazon Prime,True,2015-08-14,4.18
+To Be or Not to Be,Disney+,False,2019-05-03,0.0
+Wonder,HBO Max,True,2017-11-02,0.0
+The Godfather: Part II,None,False,2022-09-25,0.0
+Relatos salvajes,HBO Max,False,2023-08-20,0.0
+Almost Famous,Hulu,False,2024-10-22,0.0
+"South Park: Bigger, Longer & Uncut",None,False,2022-12-18,12.89
+Le salaire de la peur,Netflix,False,2017-06-17,0.0
+Star Wars: Episode VI - Return of the Jedi,Netflix,False,2024-06-18,0.0
+Doctor Zhivago,HBO Max,True,2019-09-11,0.0
+Tengoku to jigoku,Disney+,False,2018-09-09,0.0
+1917,Netflix,False,2021-12-03,0.0
+Solaris,Disney+,True,2020-03-27,0.0
+Sunset Blvd.,HBO Max,False,2015-08-06,9.89
+Kelly's Heroes,Disney+,False,2018-09-14,0.0
+Adaptation.,Hulu,True,2020-09-24,0.0
+Creed,None,True,2024-09-07,11.67
+Scent of a Woman,HBO Max,False,2025-02-27,0.0
+Togo,None,False,2016-04-19,0.0
+Once Were Warriors,Disney+,True,2015-06-23,0.0
+The Visitor,Amazon Prime,True,2023-12-19,7.91
+Gone Baby Gone,Hulu,False,2015-08-26,0.0
+The Lord of the Rings: The Return of the King,Disney+,True,2020-12-28,11.42
+The Fault in Our Stars,HBO Max,False,2024-07-27,7.48
+Manbiki kazoku,Disney+,False,2016-11-25,0.0
+Requiem for a Dream,Amazon Prime,False,2022-10-27,0.0
+Dead Poets Society,Netflix,True,2024-09-02,0.0
+The Avengers,Disney+,False,2023-05-06,0.0
+Rebel Without a Cause,None,False,2016-06-20,0.0
+Interstate 60: Episodes of the Road,HBO Max,True,2019-11-10,0.0
+Dogville,Amazon Prime,True,2021-02-16,0.0
+Pride & Prejudice,Netflix,False,2024-12-23,0.0
+Vizontele,None,True,2020-07-16,0.0
+Jab We Met,Disney+,False,2016-07-20,0.0
+North by Northwest,None,False,2021-05-10,0.0
+Serbuan maut,Netflix,True,2018-02-10,6.34
+The Truman Show,Disney+,True,2023-11-23,0.0
+Carlito's Way,Disney+,True,2018-11-03,0.0
+Fight Club,Hulu,True,2019-07-13,0.0
+Pink,None,False,2020-06-05,0.0
+The Girl with the Dragon Tattoo,None,False,2017-07-20,0.0
+Rear Window,Netflix,True,2018-06-12,0.0
+Coraline,Netflix,False,2019-05-17,10.25
+Pride,Amazon Prime,False,2023-12-19,0.0
+"O Brother, Where Art Thou?",Disney+,False,2015-04-18,18.52
+Salinui chueok,Disney+,False,2018-04-05,0.0
+Andrei Rublev,None,True,2015-10-18,0.0
+Ôkami kodomo no Ame to Yuki,Hulu,True,2020-09-01,0.0
+Duck Soup,Netflix,True,2017-05-09,0.0
+Dallas Buyers Club,None,False,2020-07-22,0.0
+Kind Hearts and Coronets,Amazon Prime,True,2016-06-22,0.0
+Okuribito,Netflix,True,2015-11-25,0.0
+Enemy at the Gates,HBO Max,False,2019-10-20,13.66
+Y tu mamá también,Amazon Prime,True,2022-08-06,0.0
+Vampire Hunter D: Bloodlust,HBO Max,True,2016-11-20,19.95
+Les choristes,Amazon Prime,False,2017-08-13,15.04
+Dil Bechara,Hulu,False,2024-11-23,18.24
+The Bourne Ultimatum,Disney+,False,2019-05-03,0.0
+"I, Daniel Blake",Netflix,False,2021-11-13,0.0
+Jeux d'enfants,Amazon Prime,False,2022-08-22,15.65
+Who's Afraid of Virginia Woolf?,Disney+,False,2015-06-30,0.0
+Schindler's List,None,False,2020-07-09,0.0
+Batman Begins,Disney+,True,2022-12-13,0.0
+Harold and Maude,HBO Max,True,2015-12-19,0.0
+Sweet Smell of Success,None,True,2022-07-05,0.0
+Edge of Tomorrow,Hulu,True,2015-07-12,0.0
+Fiddler on the Roof,Hulu,False,2019-02-06,2.98
+The Machinist,HBO Max,True,2023-02-01,0.0
+Blow,None,False,2015-11-29,0.0
+Gully Boy,Disney+,True,2024-07-12,9.48
+Paddington 2,HBO Max,True,2023-08-02,0.0
+Mysterious Skin,Disney+,False,2020-04-15,15.14
+Freaks,None,True,2019-09-20,9.22
+English Vinglish,Hulu,True,2018-05-24,6.26
+This Is Spinal Tap,Disney+,True,2024-02-13,0.0
+Under sandet,Disney+,False,2018-03-18,13.95
+The Innocents,Hulu,False,2019-09-23,0.0
+In a Lonely Place,HBO Max,False,2022-01-21,0.0
+Laura,Amazon Prime,False,2015-11-24,0.0
+Hachi: A Dog's Tale,Disney+,False,2016-04-29,0.0
+My Name Is Khan,Netflix,False,2022-05-03,0.0
+Omoide no Mânî,Netflix,False,2015-11-12,0.0
+Hacksaw Ridge,HBO Max,False,2016-04-17,0.19
+Witness for the Prosecution,Disney+,True,2016-10-24,16.68
+Chak De! India,Disney+,True,2015-06-28,0.0
+Le notti di Cabiria,Amazon Prime,True,2018-03-01,0.0
+The Curious Case of Benjamin Button,None,True,2016-04-16,0.0
+The Bourne Supremacy,Amazon Prime,True,2020-08-06,0.0
+Harry Potter and the Prisoner of Azkaban,Netflix,True,2019-04-21,10.75
+Bohemian Rhapsody,Netflix,True,2018-01-26,0.0
+Un prophète,None,True,2017-12-02,0.0
+To Have and Have Not,Netflix,True,2017-09-26,18.43
+Talvar,Netflix,True,2024-06-19,0.0
+My Fair Lady,Disney+,False,2022-09-28,6.6
+The Shop Around the Corner,None,True,2016-03-20,0.0
+Deadpool 2,Netflix,True,2022-03-06,0.0
+Veer-Zaara,Amazon Prime,False,2024-05-15,0.0
+The Shawshank Redemption,Disney+,True,2024-05-28,19.59
+It Happened One Night,Hulu,True,2024-04-15,0.0
+Jules et Jim,None,False,2022-08-10,0.0
+Charade,HBO Max,False,2018-02-24,0.0
+The Day the Earth Stood Still,Amazon Prime,True,2015-07-30,0.0
+The Blues Brothers,HBO Max,False,2020-09-20,0.0
+Star Wars: Episode VII - The Force Awakens,Hulu,False,2018-09-01,0.0
+Rain Man,Hulu,True,2023-09-22,0.0
+Ran,Netflix,True,2021-03-26,1.86
+M - Eine Stadt sucht einen Mörder,Netflix,True,2020-11-26,0.0
+Kôkaku Kidôtai,None,True,2016-01-19,0.0
+Sleuth,Hulu,False,2023-08-20,0.0
+The Ten Commandments,Disney+,False,2025-02-09,0.0
+A Star Is Born,Disney+,False,2025-01-11,0.0
+Incendies,Amazon Prime,True,2023-09-19,0.0
+Boksuneun naui geot,HBO Max,False,2020-09-09,0.0
+Yôjinbô,None,True,2017-08-31,5.67
+Fanny och Alexander,Disney+,True,2016-01-03,0.0
+Leviafan,Disney+,False,2018-03-26,0.0
+Memento,Hulu,False,2024-08-30,0.0
+La battaglia di Algeri,HBO Max,True,2018-02-14,0.0
+Green Book,Hulu,False,2024-06-19,0.0
+Ben-Hur,HBO Max,True,2021-03-25,0.0
+Butch Cassidy and the Sundance Kid,Hulu,True,2019-12-25,8.21
+Baby,Hulu,False,2015-08-20,0.0
+Warrior,Netflix,False,2023-01-28,0.0
+Il conformista,Netflix,False,2017-12-14,0.0
+Manchester by the Sea,Disney+,False,2025-02-08,0.0
+Klaus,Netflix,True,2017-03-27,0.0
+Rope,Disney+,False,2015-11-04,17.31
+Heat,Disney+,False,2020-09-20,0.0
+The Silence of the Lambs,HBO Max,False,2019-06-22,0.0
+Brokeback Mountain,Disney+,False,2019-01-06,0.0
+The Gold Rush,Disney+,True,2018-05-07,9.49
+Central do Brasil,Disney+,True,2023-10-29,0.0
+The French Connection,Netflix,True,2019-06-08,11.74
+Dom za vesanje,Netflix,False,2019-07-04,0.0
+The Longest Day,Amazon Prime,False,2020-06-14,0.0
+Gangs of Wasseypur,Hulu,True,2019-04-13,0.0
+Raging Bull,None,False,2017-01-24,0.0
+Pulp Fiction,HBO Max,False,2019-04-13,0.0
+Gravity,None,False,2015-10-07,0.0
+Before Midnight,Amazon Prime,True,2019-04-08,0.0
+The Shining,Disney+,False,2018-05-21,10.51
+Moneyball,Disney+,False,2016-05-20,17.58
+A Little Princess,Amazon Prime,False,2021-04-29,0.0
+Munna Bhai M.B.B.S.,HBO Max,False,2021-10-02,0.0
+Shutter Island,None,True,2022-10-07,5.76
+Das Experiment,Disney+,True,2021-04-05,9.12
+Million Dollar Baby,Disney+,False,2023-11-25,14.23
+Kahaani,Netflix,True,2016-05-01,0.0
+La Vie En Rose,Hulu,False,2018-05-02,0.0
+C.R.A.Z.Y.,None,False,2020-02-04,3.5
+"Three Billboards Outside Ebbing, Missouri",Disney+,False,2018-08-12,0.0
+Giù la testa,None,True,2016-03-12,14.66
+3:10 to Yuma,Hulu,True,2015-11-02,0.0
+Det sjunde inseglet,None,False,2025-02-05,3.67
+The Usual Suspects,Hulu,False,2017-05-03,0.0
+Badlands,Hulu,True,2016-03-15,0.0
+Scarface,Disney+,False,2019-04-06,4.79
+Le passé,Disney+,False,2020-04-11,5.47
+Kimi no na wa.,Hulu,False,2016-04-28,0.0
+Akira,Amazon Prime,False,2022-12-14,0.0
+The Night of the Hunter,Hulu,False,2023-11-05,13.95
+Frost/Nixon,Netflix,True,2016-11-01,4.34
+From Here to Eternity,Disney+,True,2015-09-15,0.0
+Saving Private Ryan,HBO Max,False,2022-08-18,11.05
+Call Me by Your Name,Disney+,True,2015-07-25,1.53
+Le charme discret de la bourgeoisie,Hulu,False,2017-08-07,0.0
+A Christmas Story,Disney+,True,2017-10-23,6.52
+The Hobbit: An Unexpected Journey,Hulu,True,2015-06-21,0.0
+La planète sauvage,None,True,2023-04-19,0.0
+Dead Man's Shoes,HBO Max,True,2025-03-24,0.0
+The Imitation Game,HBO Max,False,2019-07-12,0.0
+Modern Times,HBO Max,True,2017-03-21,0.0
+Ying xiong,Netflix,False,2018-01-01,0.0
+Toy Story 2,Netflix,False,2024-01-26,7.62
+The Secret of Kells,Hulu,False,2021-06-22,17.11
+Harry Potter and the Goblet of Fire,Netflix,True,2022-09-20,0.0
+Ba wang bie ji,Amazon Prime,True,2021-12-26,0.0
+Short Cuts,HBO Max,True,2017-08-03,0.0
+Key Largo,HBO Max,True,2025-02-08,6.54
+The Color Purple,None,False,2019-02-10,9.69
+Empire of the Sun,Hulu,False,2020-04-13,0.0
+Mimi wo sumaseba,Netflix,False,2024-05-14,0.0
+A Streetcar Named Desire,None,True,2016-02-19,0.0
+Hamilton,HBO Max,True,2023-01-06,2.8
+Bringing Up Baby,Disney+,True,2015-05-30,16.82
+Amour,Netflix,True,2020-11-10,0.0
+Nosferatu,Disney+,False,2015-06-21,0.0
+Vivre sa vie: Film en douze tableaux,HBO Max,False,2018-08-24,0.0
+Ratatouille,HBO Max,True,2022-11-13,0.0
+The Great Dictator,Disney+,True,2023-02-20,0.0
+Coco,HBO Max,True,2022-05-24,0.0
+Diarios de motocicleta,Netflix,True,2025-01-14,0.0
+Pink Floyd: The Wall,None,False,2016-04-09,13.54
+Viskningar och rop,Amazon Prime,False,2018-10-09,0.0
+The Pursuit of Happyness,Amazon Prime,False,2019-08-18,0.0
+Slumdog Millionaire,Amazon Prime,False,2025-02-24,0.0
+The Maltese Falcon,None,True,2022-03-06,0.0
+The Deer Hunter,HBO Max,False,2020-11-03,0.0
+"Il buono, il brutto, il cattivo",Hulu,True,2019-11-03,0.0
+Judgment at Nuremberg,Netflix,True,2022-12-07,0.0
+Casino Royale,None,True,2015-12-22,16.22
+The Florida Project,Netflix,False,2017-05-02,0.0
+Taken,HBO Max,False,2018-11-27,17.93
+Mad Max: Fury Road,Netflix,True,2025-01-28,0.0
+Forushande,HBO Max,True,2023-12-03,0.0
+My Cousin Vinny,Amazon Prime,True,2022-02-11,0.0
+Hana-bi,Netflix,True,2017-08-24,0.0
+The Lion in Winter,Hulu,True,2016-01-25,15.33
+Rogue One,HBO Max,True,2023-12-10,7.49
+Tôkyô goddofâzâzu,Netflix,True,2019-11-18,0.0
+The Message,Disney+,True,2024-06-23,0.0
+Batman: Mask of the Phantasm,None,False,2024-06-30,0.0
+Glory,Disney+,True,2020-08-21,6.74
+Little Women,Hulu,False,2021-12-23,0.0
+The African Queen,Hulu,False,2016-04-17,0.0
+Twelve Monkeys,Disney+,False,2020-11-30,0.0
+Eskiya,HBO Max,True,2016-09-30,15.93
+The Sixth Sense,Netflix,True,2019-09-20,3.36
+Serenity,None,False,2020-06-24,0.0
+Victoria,Disney+,False,2024-05-10,0.0
+Boyz n the Hood,Hulu,True,2023-02-06,0.0
+Mou gaan dou,Netflix,True,2021-12-07,0.0
+Kagemusha,HBO Max,True,2017-01-19,0.0
+Apocalypse Now,Disney+,False,2020-10-02,0.0
+A Clockwork Orange,Hulu,False,2016-02-24,0.0
+Moonrise Kingdom,Disney+,True,2017-03-01,0.0
+Lost Highway,HBO Max,True,2017-03-26,2.41
+Knockin' on Heaven's Door,Hulu,False,2019-01-16,0.0
+Full Metal Jacket,Netflix,False,2024-06-13,0.0
+2001: A Space Odyssey,Disney+,False,2023-05-11,0.0
+Young Frankenstein,Netflix,True,2024-07-13,0.0
+My Left Foot: The Story of Christy Brown,None,True,2019-05-03,0.0
+The Grapes of Wrath,None,False,2018-06-13,0.0
+Tenkû no shiro Rapyuta,Amazon Prime,False,2023-04-07,0.0
+Babam ve Oglum,HBO Max,False,2019-12-19,0.0
+Watchmen,Disney+,False,2017-03-07,12.99
+Jodaeiye Nader az Simin,Hulu,True,2020-09-20,0.0
+Short Term 12,None,True,2017-07-27,0.0
+Close Encounters of the Third Kind,HBO Max,False,2016-10-01,0.0
+Inside Man,Amazon Prime,True,2022-05-29,0.0
+"Synecdoche, New York",Hulu,True,2017-10-25,0.0
+Ajeossi,HBO Max,False,2017-06-13,2.04
+About Time,HBO Max,False,2015-05-28,0.0
+Män som hatar kvinnor,Disney+,False,2023-08-29,17.0
+Eternal Sunshine of the Spotless Mind,Amazon Prime,False,2024-02-13,0.0
+Forrest Gump,Disney+,False,2017-03-06,11.99
+Groundhog Day,None,True,2023-02-09,13.92
+Manhattan,Netflix,False,2016-07-21,0.0
+The Lion King,Hulu,True,2022-02-13,13.87
+Léon,Amazon Prime,True,2017-05-03,0.0
+The Martian,HBO Max,True,2017-03-31,0.0
+Unforgiven,HBO Max,True,2022-10-09,6.36
+The Fall,Netflix,False,2022-01-08,9.64
+The Invisible Man,HBO Max,False,2016-08-16,0.0
+La migliore offerta,Hulu,False,2016-08-08,0.0
+Gake no ue no Ponyo,Disney+,True,2022-03-23,0.0
+Bacheha-Ye aseman,Amazon Prime,False,2024-08-04,0.0
+Planet of the Apes,Hulu,True,2016-08-25,0.0
+Monty Python and the Holy Grail,None,False,2020-11-26,0.0
+Les diaboliques,Netflix,True,2019-06-05,0.0
+Dog Day Afternoon,None,True,2022-10-13,4.65
+Sabrina,Hulu,True,2021-08-20,0.0
+Just Mercy,Netflix,False,2016-03-16,6.17
+Down by Law,Hulu,False,2022-06-23,15.14
+Sholay,HBO Max,False,2016-08-17,0.0
+The Nightmare Before Christmas,HBO Max,False,2020-06-04,0.0
+La piel que habito,Netflix,False,2023-03-02,0.0
+Billy Elliot,Hulu,False,2015-07-02,0.0
+Sleepers,Hulu,True,2020-03-24,0.0
+The Killing Fields,Disney+,False,2022-01-19,0.0
+Magnolia,Disney+,True,2016-11-17,0.0
+Mulan,Amazon Prime,False,2021-03-01,11.96
+Skyfall,HBO Max,False,2018-05-11,14.78
+La haine,Netflix,True,2020-01-01,0.0
+Amarcord,None,False,2018-04-05,0.0
+Special Chabbis,HBO Max,False,2018-05-26,0.0
+Goodfellas,Hulu,False,2018-12-07,10.41
+Airlift,HBO Max,True,2022-12-22,12.95
+Papurika,Disney+,False,2017-02-22,0.0
+Prisoners,None,True,2022-06-07,0.0
+The Great Escape,Hulu,True,2017-02-02,6.62
+The Warriors,HBO Max,False,2017-03-22,0.0
+Cidade de Deus,Amazon Prime,False,2020-10-24,0.0
+Tropa de Elite,Disney+,True,2016-05-13,13.29
+Lat sau san taam,Disney+,False,2021-02-23,0.0
+Goldfinger,HBO Max,True,2016-07-13,0.0
+Blade Runner 2049,Hulu,True,2018-10-02,12.16
+Per un pugno di dollari,Hulu,False,2025-02-20,0.0
+Hiroshima mon amour,Disney+,False,2019-02-09,0.0
+Der Name der Rose,None,True,2022-01-30,0.0
+Room,Hulu,True,2022-11-30,0.0
+Adams æbler,Amazon Prime,True,2021-07-05,1.4
+Inglourious Basterds,Netflix,False,2015-09-30,0.0
+Miracle on 34th Street,None,True,2017-08-19,0.0
+Oldeuboi,None,False,2015-06-28,0.0
+American Gangster,Hulu,False,2025-03-29,0.0
+Paper Moon,Amazon Prime,True,2022-05-23,0.0
+Halloween,Hulu,True,2024-05-09,0.0
+The Hustler,Disney+,False,2018-01-07,18.63
+Rang De Basanti,Amazon Prime,False,2023-12-07,0.0
+Alien,None,False,2018-09-28,0.0
+Kingsman: The Secret Service,None,True,2019-03-25,6.23
+Roman Holiday,Disney+,True,2024-06-13,4.9
+Tôkyô monogatari,HBO Max,True,2015-11-28,0.0
+The Thing,None,False,2017-08-10,0.0
+Taegukgi hwinalrimyeo,Hulu,False,2020-11-25,0.0
+Låt den rätte komma in,Hulu,True,2020-12-17,0.0
+The Apartment,Disney+,False,2018-10-14,0.0
+28 Days Later...,Hulu,False,2024-10-24,0.0
+Nueve reinas,None,True,2025-01-08,1.6
+Fried Green Tomatoes,None,True,2023-02-06,7.96
+Vicky Donor,Netflix,False,2020-04-27,0.0
+Metropolis,Hulu,False,2020-08-29,0.0
+Lawrence of Arabia,Amazon Prime,False,2020-01-26,0.0
+Thor: Ragnarok,HBO Max,True,2023-01-21,15.2
+The Conversation,Disney+,False,2022-08-21,15.86
+Dangal,Amazon Prime,True,2017-08-27,0.0
+Cape Fear,Amazon Prime,True,2020-07-05,0.0
+Zombieland,Amazon Prime,False,2018-02-09,15.17
+Kill Bill: Vol. 2,None,True,2023-08-05,11.9
+Platoon,None,False,2023-04-01,0.0
+Hotaru no haka,HBO Max,False,2015-06-22,5.14
+Darbareye Elly,Disney+,True,2020-06-14,0.0
+Portrait de la jeune fille en feu,Disney+,True,2023-01-20,0.0
+The 39 Steps,HBO Max,False,2022-09-15,0.0
+Blue Velvet,Netflix,False,2016-10-29,0.0
+The Broken Circle Breakdown,None,True,2021-02-14,0.0
+In the Name of the Father,Amazon Prime,True,2017-03-19,0.0
+La Strada,Disney+,True,2017-07-08,0.0
+Back to the Future Part II,HBO Max,False,2018-11-29,0.0
+The Bridge on the River Kwai,HBO Max,True,2024-12-02,0.0
+Her,None,False,2024-07-21,0.0
+Apollo 13,Amazon Prime,True,2017-06-27,0.0
+There Will Be Blood,HBO Max,False,2023-02-03,9.82
+Citizen Kane,None,True,2016-11-19,18.8
+Good Bye Lenin!,Hulu,False,2024-05-01,7.46
+Casablanca,Amazon Prime,False,2020-11-15,0.0
+Nefes: Vatan Sagolsun,Disney+,False,2021-09-05,0.0
+Harry Potter and the Half-Blood Prince,Amazon Prime,False,2015-12-29,0.0
+Paan Singh Tomar,Netflix,False,2022-10-03,0.0
+Hunt for the Wilderpeople,Amazon Prime,False,2021-10-06,0.0
+Aladdin,Amazon Prime,False,2025-03-17,7.69
+Apocalypto,Netflix,False,2021-07-18,0.0
+The General,Amazon Prime,False,2017-03-17,0.0
+Gisaengchung,HBO Max,True,2016-03-24,0.0
+Donnie Brasco,Disney+,True,2020-12-17,0.0
+Black Hawk Down,Disney+,True,2015-07-24,14.44
+Le dîner de cons,Hulu,False,2023-09-27,0.0
+Der Himmel über Berlin,Disney+,False,2016-11-10,0.0
+La montaña sagrada,Disney+,True,2022-04-08,0.0
+Atonement,None,True,2018-01-04,0.0
+The Pianist,Netflix,True,2019-09-14,0.0
+Höstsonaten,Amazon Prime,False,2016-08-29,14.71
+"Monsters, Inc.",Amazon Prime,False,2017-08-05,0.0
+Who Framed Roger Rabbit,HBO Max,True,2022-04-20,0.0
+Night on Earth,Amazon Prime,True,2019-08-03,12.61
+(500) Days of Summer,Netflix,False,2023-03-10,0.0
+A Man for All Seasons,HBO Max,True,2019-05-27,0.0
+Black,HBO Max,False,2015-07-24,0.0
+Le samouraï,None,True,2017-12-04,0.0
+Ang-ma-reul bo-at-da,Hulu,True,2016-12-11,0.0
+The Gentlemen,Amazon Prime,False,2016-04-06,0.0
+Midnight in Paris,None,False,2020-04-05,0.0
+One Flew Over the Cuckoo's Nest,Netflix,True,2018-08-28,0.0
+The Kid,None,True,2021-07-17,16.82
+Badhaai ho,Disney+,True,2018-01-20,0.0
+Fargo,Netflix,False,2020-11-14,12.88
+Ed Wood,Netflix,False,2021-02-25,7.95
+Dead Man,Netflix,False,2019-12-10,0.0
+All About Eve,HBO Max,False,2022-01-29,10.37
+Per qualche dollaro in più,Hulu,False,2017-05-29,0.0
+The Boy in the Striped Pyjamas,HBO Max,False,2015-05-06,0.0
+Straight Outta Compton,Netflix,True,2019-11-09,5.05
+To Kill a Mockingbird,Disney+,True,2019-01-26,0.0
+Kakushi-toride no san-akunin,HBO Max,True,2022-02-02,13.16
+Changeling,None,False,2015-09-01,0.0
+Shadow of a Doubt,None,True,2022-07-30,0.0
+Wind River,Netflix,False,2024-10-12,0.0
+Ghostbusters,Disney+,False,2019-08-11,14.55
+Lethal Weapon,None,True,2017-10-19,0.0
+Boogie Nights,Amazon Prime,True,2019-08-10,0.0
+The Muppet Movie,Amazon Prime,False,2024-02-18,6.88
+Nuovo Cinema Paradiso,Netflix,True,2015-10-10,0.0
+Celda 211,Hulu,True,2025-01-24,18.59
+Der Untergang,None,False,2021-11-06,0.0
+Deliverance,Hulu,True,2021-11-26,0.0
+Die Hard,Netflix,True,2021-07-25,16.32
+Star Wars: Episode V - The Empire Strikes Back,Hulu,False,2022-02-01,0.0
+The Bourne Identity,None,False,2018-02-12,0.0
+Once Upon a Time in the West,Hulu,False,2018-09-06,0.0
+Omohide poro poro,Hulu,False,2021-08-29,0.0
+Finding Neverland,HBO Max,False,2018-06-08,0.0
+Mulholland Dr.,Disney+,False,2023-11-10,3.41
+The Hurricane,Netflix,False,2020-04-06,0.0
+Bir Zamanlar Anadolu'da,Amazon Prime,True,2021-08-26,3.96
+Chinatown,Hulu,True,2023-06-15,0.0
+Scarface: The Shame of the Nation,Netflix,False,2022-06-09,9.01
+Dark Waters,HBO Max,False,2017-02-10,3.71
+Gran Torino,HBO Max,False,2025-01-15,0.0
+La vita è bella,Hulu,True,2017-03-04,0.0
+Lola rennt,None,False,2024-03-06,5.18
+Anatomy of a Murder,Disney+,True,2021-05-08,8.17
+Minority Report,None,False,2018-05-14,0.0
+Sin City,None,False,2016-03-28,0.0
+Mary and Max,Amazon Prime,True,2022-12-18,3.32
+The Departed,Disney+,False,2023-05-15,0.0
+The Bridges of Madison County,Amazon Prime,False,2022-02-20,0.0
+Kal Ho Naa Ho,Amazon Prime,True,2016-02-22,0.0
+Isle of Dogs,Netflix,False,2020-06-24,0.0
+Trois couleurs: Blanc,Amazon Prime,False,2018-08-07,0.0
+Enter the Dragon,Amazon Prime,True,2019-11-16,0.0
+Mary Poppins,HBO Max,True,2019-06-16,0.0
+Ordinary People,Disney+,True,2015-09-12,0.0
+Sherlock Jr.,Disney+,False,2025-02-02,0.0
+Where Eagles Dare,HBO Max,True,2019-08-14,0.14
+Peeping Tom,Hulu,True,2018-05-29,0.0
+Shaun of the Dead,Netflix,True,2020-06-19,1.94
+Dazed and Confused,Disney+,True,2022-02-06,0.0
+Withnail & I,Hulu,True,2025-03-15,0.0
+M.S. Dhoni: The Untold Story,HBO Max,False,2015-05-09,0.0
+Falling Down,None,True,2020-10-02,15.22
+L.A. Confidential,Netflix,True,2020-06-13,9.46
+Kick-Ass,HBO Max,True,2022-01-03,0.0
+V for Vendetta,Hulu,True,2023-11-24,0.0
+Happiness,Disney+,False,2020-02-10,0.0
+Blowup,Disney+,True,2018-12-01,19.98
+Harry Potter and the Deathly Hallows: Part 1,None,True,2017-03-09,18.81
+Taxi Driver,Amazon Prime,False,2018-04-13,0.0
+Harry Potter and the Deathly Hallows: Part 2,HBO Max,True,2023-02-24,0.0
+E.T. the Extra-Terrestrial,Amazon Prime,False,2019-04-08,0.0
+Reservoir Dogs,HBO Max,False,2018-06-27,0.0
+The Last Picture Show,Disney+,True,2023-11-14,0.0
+The Exorcist,None,False,2019-03-09,0.0
+The Hangover,HBO Max,True,2021-03-09,0.0
+Loving Vincent,HBO Max,False,2015-07-22,0.0
+Lost in Translation,Netflix,False,2023-05-26,17.75
+Majo no takkyûbin,None,True,2020-10-08,0.0
+Vertigo,Hulu,False,2018-11-23,0.0
+Capharnaüm,Netflix,True,2018-07-21,5.59
+Toy Story 3,None,False,2019-11-17,0.0
+Do the Right Thing,None,False,2019-02-06,7.36
+The Royal Tenenbaums,Netflix,False,2019-01-10,0.0
+PK,None,True,2018-04-08,0.0
+What's Eating Gilbert Grape,None,True,2020-05-25,0.0
+Rupan sansei: Kariosutoro no shiro,Amazon Prime,True,2021-12-22,0.0
+Death Note: Desu nôto,HBO Max,True,2016-12-10,0.0
+Inception,Hulu,False,2016-09-02,19.14
+The Fifth Element,Disney+,True,2022-03-25,0.33
+The Prestige,HBO Max,True,2021-09-11,0.0
+Brief Encounter,None,False,2021-02-15,0.0
+Shrek,None,True,2022-04-12,6.51
+Fa yeung nin wah,HBO Max,True,2021-03-15,0.0
+Kumonosu-jô,None,False,2021-11-01,0.0
+Star Trek Into Darkness,Netflix,False,2020-02-12,0.0
+Sound of Metal,Hulu,True,2020-10-06,0.0
+Avatar,Amazon Prime,True,2023-05-03,0.0
+Me and Earl and the Dying Girl,Disney+,False,2018-06-18,0.0
+Incredibles 2,Disney+,True,2015-10-02,18.61
+Jurassic Park,Netflix,True,2017-03-13,17.13
+Das weiße Band - Eine deutsche Kindergeschichte,Disney+,True,2021-03-04,14.68
+Jungfrukällan,HBO Max,False,2022-07-23,0.0
+Annie Hall,HBO Max,False,2017-06-24,0.0
+Pan's Labyrinth,Netflix,True,2024-09-03,0.0
+I Am Sam,Amazon Prime,False,2017-04-10,0.0
+Les triplettes de Belleville,HBO Max,True,2017-06-28,0.0
+Only the Brave,Amazon Prime,False,2018-02-20,10.09
+L'avventura,Amazon Prime,False,2017-12-11,0.0
+Mustang,Disney+,False,2019-12-13,6.02
+District 9,None,False,2018-01-09,0.0
+The Wolf of Wall Street,HBO Max,True,2018-09-11,0.0
+Up,None,True,2019-06-10,3.36
+Roma,Disney+,True,2016-11-16,0.0
+Lord of War,Netflix,True,2020-07-26,0.0
+Nebraska,HBO Max,True,2018-12-19,0.0
+Tombstone,Netflix,False,2022-07-13,0.0
+Deadpool,Disney+,False,2019-09-03,0.0
+Knives Out,Disney+,True,2024-10-31,13.19
+Bajrangi Bhaijaan,None,False,2017-10-21,0.0
+Du rififi chez les hommes,Disney+,True,2022-03-08,0.0
+Double Indemnity,HBO Max,False,2021-11-21,3.2
+Dirty Harry,None,False,2018-01-22,18.04
+Chugyeokja,Disney+,False,2016-11-10,4.41
+El secreto de sus ojos,Netflix,True,2023-05-31,0.0
+Funny Games,Amazon Prime,False,2017-05-11,0.0
+Koe no katachi,None,True,2019-01-18,2.46
+The Hobbit: The Desolation of Smaug,HBO Max,False,2024-04-24,0.0
+Rocky,Hulu,True,2020-08-06,0.0
+What Ever Happened to Baby Jane?,Netflix,True,2021-04-10,1.81
+JFK,HBO Max,False,2023-03-09,0.0
+Ladri di biciclette,Disney+,True,2016-03-13,18.63
+Some Like It Hot,Hulu,True,2018-07-09,12.01
+Logan,None,True,2021-06-30,0.0
+Touch of Evil,Hulu,False,2017-02-02,0.0
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",None,False,2024-07-23,14.71
+Jaws,HBO Max,False,2021-07-29,0.0
+Saw,Disney+,True,2017-08-12,0.0
+Efter brylluppet,None,True,2021-06-28,0.0
+Despicable Me,Netflix,True,2018-09-13,16.16
+The Purple Rose of Cairo,Netflix,False,2015-04-20,0.0
+Guardians of the Galaxy Vol. 2,None,True,2020-03-18,0.0
+Uri: The Surgical Strike,None,True,2017-03-10,0.0
+The Notebook,Amazon Prime,False,2015-11-09,0.0
+Dances with Wolves,None,False,2018-11-12,18.73
+The Last Samurai,Disney+,True,2020-04-23,2.32
+Control,None,True,2020-08-09,0.0
+Kai po che!,Amazon Prime,False,2016-08-21,19.07
+Die Welle,Netflix,False,2015-12-02,0.0
+Song of the Sea,Disney+,True,2021-05-15,0.0
+Gongdong gyeongbi guyeok JSA,Amazon Prime,True,2017-07-06,0.0
+The Blind Side,None,True,2016-03-03,0.0
+Silver Linings Playbook,HBO Max,False,2017-11-17,19.59
+As Good as It Gets,HBO Max,False,2021-11-24,0.0
+Stardust,Hulu,False,2023-06-27,0.0
+Mr. Nobody,Netflix,False,2024-08-04,0.0
+Gilda,Netflix,False,2021-12-11,10.39
+Flipped,Amazon Prime,True,2019-02-02,0.0
+Pâfekuto burû,Amazon Prime,False,2024-06-21,0.0
+Delicatessen,Hulu,True,2025-01-08,0.0
+No Man's Land,None,True,2019-07-09,0.0
+Stand by Me,None,True,2016-06-22,0.0
+The Muppet Christmas Carol,Amazon Prime,False,2023-10-13,0.0
+The Killing,Hulu,True,2020-12-16,16.74
+Letters from Iwo Jima,None,False,2018-10-27,0.0
+The Sting,Disney+,True,2022-02-12,0.0
+The Outlaw Josey Wales,HBO Max,True,2019-07-19,0.0
+No Country for Old Men,Disney+,False,2025-01-24,0.0
+The Ladykillers,Disney+,False,2020-05-08,0.0
+Madeo,None,True,2023-10-02,14.05
+Awakenings,Amazon Prime,False,2017-05-17,0.0
+Cinderella Man,HBO Max,False,2016-08-24,0.0
+On Golden Pond,Amazon Prime,False,2022-05-09,2.47
+Airplane!,None,False,2023-01-26,14.12
+Lage Raho Munna Bhai,Hulu,False,2018-07-14,0.0
+The Magdalene Sisters,HBO Max,True,2021-01-11,9.9
+Mississippi Burning,HBO Max,False,2015-12-29,7.53
+La passion de Jeanne d'Arc,Amazon Prime,False,2019-01-01,6.66
+The Boondock Saints,Netflix,True,2020-08-04,4.21
+The Terminator,Disney+,False,2024-10-07,16.2
+Dawn of the Planet of the Apes,HBO Max,False,2022-07-23,1.05
+Red River,Amazon Prime,True,2023-09-22,3.58
+Persepolis,Disney+,True,2024-02-08,0.0
+Dilwale Dulhania Le Jayenge,Disney+,True,2019-07-23,0.0
+The Lego Movie,Hulu,False,2021-06-04,13.18
+Hot Fuzz,Amazon Prime,True,2015-06-13,19.81
+The World's Fastest Indian,Netflix,True,2018-02-13,0.0
+Zerkalo,Netflix,True,2023-11-07,0.0
+Pirates of the Caribbean: The Curse of the Black Pearl,Hulu,False,2023-01-22,0.0
+Dancer in the Dark,None,False,2019-08-18,15.15
+A Wednesday,Hulu,False,2022-03-17,0.0
+American Psycho,None,True,2023-06-26,0.0
+Do lok tin si,Amazon Prime,True,2017-05-21,0.0
+Sing Street,Netflix,True,2019-05-06,0.0
+The Help,Disney+,False,2024-07-31,0.0
+Mystic River,Amazon Prime,True,2023-08-07,7.87
+Lilja 4-ever,HBO Max,False,2023-07-13,0.0
+Midnight Express,None,False,2017-12-27,11.6
+300,Amazon Prime,False,2023-02-12,16.99
+Hævnen,Netflix,False,2022-09-27,9.15
+Auf der anderen Seite,Disney+,True,2024-06-01,0.0
+The Odd Couple,Hulu,True,2024-09-22,0.0
+Rushmore,Disney+,True,2024-01-05,0.0
+Wo hu cang long,Hulu,False,2020-12-04,0.0
+Love and Death,HBO Max,False,2023-04-17,0.0
+Strangers on a Train,Amazon Prime,True,2015-06-16,0.0
+Fear and Loathing in Las Vegas,Netflix,False,2020-03-15,14.7
+Udta Punjab,HBO Max,True,2022-08-03,0.0
+Ocean's Eleven,Amazon Prime,True,2024-03-20,11.51
+Tumbbad,Hulu,True,2020-01-02,0.0
+Finding Nemo,Netflix,False,2018-06-25,2.95
+Willy Wonka & the Chocolate Factory,Netflix,False,2016-12-16,8.54
+A Beautiful Mind,None,True,2024-05-03,18.51
+Edward Scissorhands,Hulu,True,2019-04-02,0.0
+The Intouchables,Disney+,False,2018-02-11,3.59
+"Aguirre, der Zorn Gottes",Disney+,True,2015-05-02,0.0
+Tonari no Totoro,None,True,2017-10-21,13.0
+Gattaca,Disney+,False,2015-09-09,0.0
+Bridge of Spies,Netflix,False,2021-04-17,12.53
+Belle de jour,Amazon Prime,True,2017-10-17,0.0
+The Taking of Pelham One Two Three,None,False,2022-09-29,0.0
+Batoru rowaiaru,Amazon Prime,False,2021-03-13,0.0
+Birdman or (The Unexpected Virtue of Ignorance),Amazon Prime,True,2019-12-22,0.0
+Amélie,HBO Max,True,2021-01-10,0.0
+His Girl Friday,HBO Max,True,2023-01-26,13.05
+Dil Chahta Hai,None,False,2016-02-25,0.0
+Detachment,Disney+,True,2024-08-20,0.0
+Perfetti sconosciuti,Disney+,False,2017-05-08,13.16
+Days of Heaven,Amazon Prime,False,2020-03-19,17.29
+The Thin Man,Disney+,True,2020-08-04,0.0
+The Searchers,Amazon Prime,True,2018-02-01,0.0
+Baby Driver,Hulu,True,2017-10-13,0.0
+Kis Uykusu,Amazon Prime,True,2022-09-29,0.0
+Secrets & Lies,HBO Max,True,2022-11-19,0.0
+Hedwig and the Angry Inch,None,True,2022-08-22,0.0
+Bound by Honor,None,True,2016-11-06,0.0
+The Last King of Scotland,Amazon Prime,False,2025-01-21,0.0
+Blazing Saddles,Disney+,True,2023-07-23,0.0
+Ford v Ferrari,Amazon Prime,False,2021-08-08,0.0
+12 Angry Men,Disney+,True,2015-06-28,0.0
+Lucky Number Slevin,Amazon Prime,True,2023-11-23,0.0
+The Count of Monte Cristo,Netflix,False,2017-12-19,0.0
+Match Point,HBO Max,False,2020-09-14,15.88
+The Trial of the Chicago 7,HBO Max,True,2021-06-28,0.0
+Rockstar,Amazon Prime,False,2024-10-29,0.0
+In the Heat of the Night,Hulu,True,2023-12-28,0.0
+Mission: Impossible - Fallout,Disney+,False,2016-02-03,0.0
+The Breakfast Club,Amazon Prime,False,2021-03-17,0.0
+American Beauty,HBO Max,False,2016-05-12,0.0
+Abre los ojos,Hulu,False,2020-08-25,0.0
+What We Do in the Shadows,None,True,2017-03-28,15.9
+Dunkirk,None,False,2019-02-02,0.0
+The Princess Bride,Disney+,False,2016-10-03,0.39
+Iron Man,Netflix,False,2020-08-04,0.0
+Back to the Future,Netflix,True,2024-01-10,0.0
+It's a Wonderful Life,Disney+,True,2023-01-04,9.77
+Ray,Amazon Prime,True,2015-08-04,0.0
+Star Trek II: The Wrath of Khan,HBO Max,False,2018-09-12,0.0
+Mommy,None,False,2021-09-02,15.79
+Baahubali 2: The Conclusion,Disney+,False,2019-10-28,0.0
+Se7en,None,False,2019-06-12,19.3
+Nelyubov,Amazon Prime,True,2017-05-04,3.61
+How to Train Your Dragon,None,False,2023-10-17,0.0
+The Wrestler,Disney+,True,2020-11-16,0.0
+Zwartboek,None,False,2021-02-24,0.0
+The Incredibles,Disney+,True,2020-12-02,2.46
+Cool Hand Luke,None,True,2018-09-14,0.0
+Papillon,Hulu,True,2023-11-05,0.0
+Dip huet seung hung,HBO Max,False,2020-06-14,0.0
+Sling Blade,Netflix,True,2016-10-12,0.0
+Big Hero 6,Netflix,True,2022-03-13,0.7
+Life of Pi,Hulu,True,2024-12-20,10.12
+Mandariinid,Netflix,True,2023-07-21,0.0
+Django Unchained,Netflix,False,2025-01-08,0.0
+Captain Fantastic,HBO Max,False,2020-03-06,0.0
+Cast Away,Amazon Prime,True,2017-10-19,0.0
+Chhichhore,Disney+,True,2020-07-17,0.0
+The Little Mermaid,HBO Max,True,2022-09-08,10.38
+True Romance,Hulu,False,2023-06-04,13.18
+The Verdict,None,False,2019-09-09,0.0
+Sense and Sensibility,Hulu,True,2016-12-24,0.0
+3 Idiots,None,False,2021-07-03,0.0
+Hamlet,None,False,2019-04-28,0.0
+The Matrix,Netflix,True,2018-06-08,7.04
+"Swades: We, the People",Netflix,True,2017-05-30,0.0
+American History X,HBO Max,False,2017-02-20,0.0
+"4 luni, 3 saptamâni si 2 zile",Hulu,True,2024-08-19,0.0
+Yeopgijeogin geunyeo,Hulu,False,2017-05-08,4.74
+Dial M for Murder,Disney+,True,2019-07-23,0.0
+This Is England,HBO Max,False,2017-08-10,0.0
+Rush,Disney+,True,2023-03-30,19.14
+Road to Perdition,None,True,2025-02-06,0.0
+City Lights,HBO Max,False,2019-04-06,0.0
+Searching,Amazon Prime,True,2021-06-03,0.0
+Serbuan maut 2: Berandal,Hulu,False,2016-11-10,0.0
+The Social Network,Netflix,True,2017-06-20,0.0
+Frankenstein,Hulu,True,2023-10-17,0.0
+Get Out,Amazon Prime,True,2016-08-01,0.0
+The Man Who Shot Liberty Valance,HBO Max,True,2018-12-07,0.0
+Guess Who's Coming to Dinner,Amazon Prime,False,2016-06-21,8.0
+"Crna macka, beli macor",Hulu,False,2015-08-19,0.0
+En man som heter Ove,Disney+,True,2022-04-19,0.0
+All Quiet on the Western Front,HBO Max,True,2016-12-24,0.0
+Arsenic and Old Lace,Disney+,True,2017-08-08,0.0
+Giant,Amazon Prime,False,2023-02-13,0.0
+Il postino,Netflix,True,2023-10-31,0.0
+The Birds,HBO Max,False,2024-06-07,19.9
+"Paris, Texas",None,False,2018-01-09,0.0
+Haider,Hulu,True,2018-10-26,0.0
+"Lock, Stock and Two Smoking Barrels",Disney+,True,2024-09-04,0.0
+High Noon,Amazon Prime,True,2017-07-07,0.0
+The Theory of Everything,HBO Max,True,2017-02-22,12.09
+Beauty and the Beast,Netflix,False,2022-06-04,0.0
+Bonnie and Clyde,HBO Max,False,2018-01-06,0.0
+Arrival,Netflix,False,2016-10-25,8.67
+The Last of the Mohicans,Amazon Prime,True,2023-11-21,0.0
+Tangled,Disney+,False,2023-08-19,0.0
+Idi i smotri,HBO Max,True,2021-07-17,0.0
+A Night at the Opera,None,True,2019-11-05,0.0
+The Iron Giant,HBO Max,False,2017-09-08,0.0
+The Godfather,Disney+,False,2015-11-23,0.0
+The Station Agent,HBO Max,False,2024-10-25,0.0
+Mad Max 2,HBO Max,False,2018-09-12,0.0
+The Lost Weekend,Hulu,True,2022-05-19,0.0
+Paths of Glory,HBO Max,False,2022-05-25,0.0
+Soul,Hulu,True,2015-06-06,0.0
+Whiplash,HBO Max,False,2023-01-04,4.51
+Crash,Disney+,False,2024-08-30,0.0
+Hable con ella,Amazon Prime,True,2022-04-02,0.0
+The Graduate,HBO Max,True,2024-10-10,7.57
+The Best Years of Our Lives,None,True,2018-03-25,0.0
+G.O.R.A.,Disney+,True,2021-04-03,3.51
+Miracle in cell NO.7,Amazon Prime,True,2023-06-17,6.13
+Guardians of the Galaxy,Hulu,True,2016-06-05,9.79
+Philomena,None,True,2017-12-25,0.0
+The Adventures of Robin Hood,None,False,2017-06-26,17.3
+Tropa de Elite 2: O Inimigo Agora é Outro,Disney+,False,2022-05-02,0.0
+Kung fu,Netflix,False,2018-10-26,0.0
+Kill Bill: Vol. 1,Amazon Prime,False,2020-12-27,3.41
+The Lord of the Rings: The Two Towers,Amazon Prime,False,2021-08-12,7.79
+La Grande Illusion,Netflix,True,2015-06-17,0.0
+The Big Short,Amazon Prime,True,2024-06-07,19.35
+Festen,Amazon Prime,True,2018-04-09,0.0
+Fitzcarraldo,Netflix,True,2021-05-21,0.0
+Andaz Apna Apna,Disney+,True,2019-05-21,9.53
+First Blood,HBO Max,True,2020-05-04,0.0
+The Jungle Book,Amazon Prime,False,2022-02-15,0.0
+Todo sobre mi madre,None,False,2019-03-15,0.0
+Philadelphia,Disney+,False,2024-02-23,0.0
+The Irishman,Disney+,False,2019-08-21,0.0
+Blood Simple,Netflix,True,2016-07-08,0.0
+Gegen die Wand,Disney+,True,2018-12-30,1.06
+The Last Emperor,Netflix,False,2022-07-13,19.48
+Catch Me If You Can,Disney+,False,2017-09-09,4.98
+King Kong,HBO Max,False,2019-09-03,0.0
+Fantasia,None,False,2023-02-03,3.66
+The Philadelphia Story,Hulu,False,2016-08-24,15.96
+The Right Stuff,Disney+,True,2018-10-14,0.0
+Rashômon,Disney+,True,2016-04-11,0.0
+Man on Fire,Disney+,True,2019-04-02,0.0
+Midnight Cowboy,Netflix,True,2016-02-13,17.62
+Jojo Rabbit,None,True,2016-06-16,6.1
+The Goonies,Amazon Prime,False,2017-10-04,18.94
+Cowboy Bebop: Tengoku no tobira,Netflix,False,2016-07-26,0.0
+Spider-Man: Into the Spider-Verse,HBO Max,True,2023-04-21,0.0
+Nightcrawler,Netflix,True,2021-07-04,0.0
+The Big Sleep,Amazon Prime,True,2019-06-29,0.0
+The Dirty Dozen,HBO Max,True,2019-07-22,18.89
+Beasts of No Nation,Amazon Prime,False,2018-10-01,0.0
+The Big Lebowski,Amazon Prime,True,2022-09-22,0.0
+Interstellar,None,False,2016-02-28,11.08
+Mr. Smith Goes to Washington,Hulu,False,2024-07-04,0.0
+La règle du jeu,HBO Max,False,2022-01-06,19.23
+Hera Pheri,Hulu,False,2021-09-14,0.0
+The Elephant Man,None,False,2016-07-04,0.0
+The Thin Red Line,Hulu,False,2023-09-25,9.59
+The Treasure of the Sierra Madre,Amazon Prime,False,2024-11-20,0.0
+The Straight Story,Hulu,True,2025-01-29,17.75
+Being John Malkovich,Netflix,True,2016-02-25,0.0
+Being There,Hulu,False,2021-06-15,0.0
+Boyhood,Hulu,True,2016-09-28,0.0
+The Revenant,Amazon Prime,False,2017-08-12,14.91
+Joyeux Noël,Disney+,True,2024-02-10,14.04
+White Heat,Netflix,True,2017-04-05,4.88
+The Remains of the Day,Amazon Prime,True,2018-03-26,19.01
+K.G.F: Chapter 1,Disney+,True,2017-11-22,17.6
+The Fugitive,None,False,2015-04-26,0.0
+The Quiet Man,Netflix,True,2021-04-09,0.0
+Good Will Hunting,HBO Max,True,2019-08-30,0.0
+Mar adentro,Netflix,False,2017-06-09,13.48
+Drishyam,HBO Max,False,2016-01-06,10.47
+The Wizard of Oz,None,False,2016-11-12,0.0
+Zootopia,None,True,2019-06-12,0.0
+Barfi!,Netflix,False,2022-05-04,10.27
+Marriage Story,Disney+,True,2021-04-14,8.45
+Ikiru,HBO Max,True,2024-08-06,0.0
+The Fighter,Hulu,False,2017-12-28,0.0
+Soorarai Pottru,Netflix,True,2017-03-19,0.0
+Wait Until Dark,HBO Max,True,2016-08-04,4.99
+Once Upon a Time in America,Amazon Prime,False,2017-03-10,0.0
+Aliens,Netflix,True,2023-10-15,2.36
+Kaze no tani no Naushika,Netflix,True,2021-12-07,0.0
+Zulu,Disney+,True,2023-09-23,0.0
+La dolce vita,None,False,2020-04-18,0.0
+Braveheart,None,False,2019-04-27,11.37

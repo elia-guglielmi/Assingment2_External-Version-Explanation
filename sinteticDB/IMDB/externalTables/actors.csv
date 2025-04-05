@@ -1,0 +1,201 @@
+Actor_ID,Actor_Name,Actor_Gender,Actor_Nationality,Actor_Debut_Year,Actor_Awards
+1,Christopher Carson,Female,Mauritius,1978,10
+2,Eileen Villarreal,Male,Turkey,1989,2
+3,Sheila Love,Male,Bermuda,2017,7
+4,Kaitlin Hanna,Female,Niue,1998,11
+5,Willie Sherman,Female,Swaziland,2019,7
+6,Catherine Smith,Female,Kuwait,1990,9
+7,Shannon Nguyen,Male,Tajikistan,1987,13
+8,Allison Ward,Male,Kazakhstan,2016,10
+9,Caitlyn Morris,Male,Sweden,1996,11
+10,Monica Ray,Female,Lebanon,2008,8
+11,Andrew Hunt,Male,Latvia,2011,9
+12,Michele Martin,Male,Comoros,1975,14
+13,Susan Henson,Female,Kiribati,1982,3
+14,Sean Tucker,Male,Croatia,1998,15
+15,Deborah Ball,Male,Netherlands Antilles,1983,1
+16,Joel Hess,Female,Kenya,1996,2
+17,Mark Warren,Male,Australia,2017,15
+18,Tracey Trujillo,Female,Saint Pierre and Miquelon,2001,6
+19,Krystal Murray,Male,Timor-Leste,2018,3
+20,Alexa Caldwell,Male,Czech Republic,2003,12
+21,Lisa Grant,Female,Nauru,1993,9
+22,Jerry Alvarez,Female,United States Minor Outlying Islands,1973,13
+23,Hannah Robinson,Male,Albania,2002,1
+24,David Frank,Male,Bahamas,2020,4
+25,Blake Gonzalez,Female,Guinea-Bissau,1980,4
+26,Sheri Vang,Female,Taiwan,1974,6
+27,Scott Williams,Male,Bhutan,1989,10
+28,Jason Oneill,Female,United Arab Emirates,2015,13
+29,Jason Cooke,Male,San Marino,2002,14
+30,Emily Hughes,Male,Cayman Islands,1995,4
+31,James Hernandez,Male,Isle of Man,1978,10
+32,James Moore,Female,Denmark,2019,5
+33,Stephanie Franklin,Female,Falkland Islands (Malvinas),2003,2
+34,Brandon Avery,Male,Cameroon,2006,15
+35,Edward Adkins,Male,Oman,1971,10
+36,Jose Pierce,Male,Barbados,1981,5
+37,Christopher Jackson,Female,Italy,1982,10
+38,Tanner Johnson,Female,Australia,1982,1
+39,Christopher King,Female,Finland,1973,0
+40,Eric Walton,Male,Chile,1985,14
+41,Willie Vasquez,Female,Morocco,1972,8
+42,Danielle Davis,Female,Korea,1999,6
+43,Stephanie Hopkins,Female,Barbados,1973,5
+44,Justin Mckinney,Female,Falkland Islands (Malvinas),1993,5
+45,Lisa Vargas,Female,Cyprus,2015,15
+46,Claudia Nelson,Male,Gambia,1982,2
+47,Katherine Johnson,Female,India,1987,4
+48,Angela Wilkerson,Male,Monaco,1993,13
+49,Vanessa Kaufman,Male,Maldives,1999,13
+50,Timothy Owens,Female,Papua New Guinea,2002,12
+51,Yolanda Walker,Male,Haiti,1995,13
+52,Oscar Myers,Male,Nepal,2010,15
+53,Tiffany Woodard,Female,Cameroon,1977,12
+54,Donald Hill Jr.,Male,Chile,2013,0
+55,Rebecca Roberson,Female,Samoa,1971,1
+56,Jon Sanchez,Female,Jamaica,1985,6
+57,Xavier Mayer,Male,Syrian Arab Republic,1993,11
+58,Candice Thornton,Male,Yemen,2001,0
+59,Michael Walters,Female,Cayman Islands,2008,10
+60,Laura Stephenson,Male,Turks and Caicos Islands,1998,6
+61,John Joyce,Female,Andorra,1981,0
+62,Rebecca Young,Male,Cyprus,2000,0
+63,Antonio Collins,Male,Colombia,2007,7
+64,Rachel Navarro,Male,Vietnam,2005,7
+65,Rhonda Hill,Female,Cape Verde,1992,11
+66,David Salinas,Female,Cote d'Ivoire,1992,9
+67,Michael Reyes,Male,Russian Federation,1980,4
+68,Duane Chambers,Female,Latvia,1986,3
+69,Thomas Fowler,Male,Burkina Faso,2017,12
+70,Emily Robinson,Female,Pakistan,2014,9
+71,Blake Bennett,Male,Sierra Leone,1975,5
+72,Paul Nichols,Male,New Zealand,1988,2
+73,Levi Johnson,Male,Saint Vincent and the Grenadines,1971,1
+74,Natalie Miller,Female,Isle of Man,1994,9
+75,Christopher Herring,Male,Faroe Islands,1973,9
+76,Steven Perez,Male,Tunisia,1980,14
+77,Aaron Gonzalez,Female,Sao Tome and Principe,2006,10
+78,Kevin Marquez,Female,Brunei Darussalam,2019,13
+79,Brandon Bennett,Female,Sao Tome and Principe,1983,4
+80,Belinda Arellano,Female,Latvia,1984,10
+81,Katherine Morris,Male,Syrian Arab Republic,2011,15
+82,Travis Miller,Male,Kiribati,1984,11
+83,Jeanette Marshall,Male,Jordan,2013,6
+84,Brian Rogers,Female,Tunisia,1983,5
+85,Brian Cruz,Female,Heard Island and McDonald Islands,1987,12
+86,Craig Santos,Male,Liberia,2011,0
+87,Diana Mitchell,Male,Turkmenistan,1996,7
+88,Krista Stanton,Female,Gabon,2002,7
+89,Patricia Wright,Male,Iran,1971,4
+90,Angela Richardson,Female,Paraguay,2019,6
+91,James Ellis PhD,Male,Guatemala,2019,0
+92,Sarah Cruz,Female,Liberia,2013,5
+93,Julie Munoz,Female,Reunion,1970,3
+94,Charles Hamilton,Male,Korea,2000,11
+95,Charles Houston,Male,Grenada,1978,1
+96,Kathryn Camacho,Male,Jersey,2011,12
+97,Mary Jones,Male,Armenia,1981,8
+98,Michelle Small,Male,Tokelau,2008,1
+99,Dr. Todd Little,Female,Gabon,1970,1
+100,Gabrielle Olson,Male,Chad,1984,3
+101,Mark Thomas,Female,Qatar,1986,0
+102,Christopher Perez,Male,Colombia,2008,1
+103,Felicia Cobb,Female,Slovakia (Slovak Republic),1989,3
+104,Jimmy Thompson,Female,Suriname,2015,13
+105,Jacqueline Evans,Female,Afghanistan,2015,14
+106,Christopher Luna,Female,Tajikistan,2011,12
+107,Kayla Craig,Female,Turkey,1987,3
+108,Robert Riley,Male,Ghana,1997,8
+109,Kathleen Brooks,Female,Australia,1994,15
+110,Mary Everett,Male,Palestinian Territory,1992,4
+111,Brandon Smith,Female,Germany,1999,6
+112,Morgan Tate,Female,Svalbard & Jan Mayen Islands,1986,0
+113,Brian Wilson,Female,Egypt,1983,9
+114,Patricia Smith,Male,Andorra,1999,13
+115,Patrick Jones,Female,Bahamas,1989,3
+116,Katherine Gibson,Male,Congo,2013,8
+117,Carrie Paul,Female,Gabon,2003,4
+118,Alexandra Wilson,Female,Paraguay,2009,13
+119,Robert Johnson MD,Female,Guam,1995,3
+120,Jennifer Atkinson,Female,Anguilla,2007,3
+121,Kristine Rivera,Male,Myanmar,1976,9
+122,Alexis Browning,Female,Fiji,1970,3
+123,Jessica Gonzalez,Male,Czech Republic,2002,3
+124,Dana Smith,Male,Kenya,2012,15
+125,Nicholas Coffey,Male,Jersey,1993,6
+126,Michelle Moore,Male,Greenland,2005,6
+127,Rebecca Mercado,Female,Benin,2011,8
+128,Jessica Bond,Female,Puerto Rico,2008,6
+129,David Phillips,Male,Greece,2008,11
+130,Thomas Todd,Male,Bolivia,1988,13
+131,Jaime Parks,Female,Iceland,1989,9
+132,Gary Hernandez,Female,Guinea,2013,5
+133,Nathaniel Garcia,Female,Korea,1976,1
+134,Felicia Martin,Male,Australia,2000,15
+135,Chad Bowers,Female,Lao People's Democratic Republic,1974,6
+136,Kenneth King,Female,Madagascar,1991,15
+137,James Gilbert,Male,Fiji,1987,10
+138,Amber Vega,Female,New Zealand,2010,7
+139,Randall Harris,Male,Northern Mariana Islands,1990,0
+140,Phillip Torres,Male,Cyprus,1987,0
+141,Brittany Hays,Male,Guinea,1986,2
+142,Anthony Rodriguez,Female,Afghanistan,2011,3
+143,Mark Mckee,Male,Poland,2015,15
+144,Jason Harris,Male,Croatia,2011,4
+145,William Lara,Male,Guadeloupe,1989,2
+146,John Wilson,Male,Barbados,1982,2
+147,Greg Williams,Male,United States of America,1979,3
+148,Suzanne Sullivan,Male,Moldova,2003,8
+149,Paul Brown,Female,Seychelles,2018,7
+150,Brian Williams,Male,Gabon,1985,14
+151,Chelsea Bowers,Female,Colombia,1973,9
+152,Michael Wright,Male,Sri Lanka,2008,8
+153,Ashley Morgan,Male,China,1995,14
+154,Trevor Weber,Female,Bosnia and Herzegovina,2012,1
+155,Ian Sullivan,Female,Bulgaria,1990,3
+156,Brenda Cisneros,Male,Norfolk Island,2013,5
+157,Jennifer Fry,Male,Senegal,1978,1
+158,Jeffery Mcdonald,Female,France,2016,9
+159,Anthony Jenkins,Female,Ecuador,1971,11
+160,Amanda Smith,Female,Switzerland,2011,10
+161,Dakota Ayers,Female,Nepal,2001,13
+162,Michael Holmes,Female,Afghanistan,1988,3
+163,Spencer Murray,Male,Lao People's Democratic Republic,1986,3
+164,James Carter,Female,Tonga,1996,1
+165,Tony Murphy,Male,Belize,1995,0
+166,Ana Norris,Female,Georgia,1994,4
+167,Juan Conley,Male,Algeria,2017,5
+168,Rachel Johnson,Male,British Virgin Islands,1972,10
+169,Karen Baker,Male,Swaziland,2007,11
+170,David Baker,Male,Tonga,2015,14
+171,Mitchell Gonzalez,Male,American Samoa,2006,8
+172,Ashley Patterson,Female,American Samoa,1982,2
+173,Ryan Reyes,Female,San Marino,1991,11
+174,John Murphy,Female,Marshall Islands,2016,10
+175,Mrs. Shelley Stevens MD,Female,Solomon Islands,2015,5
+176,Stephen Hill,Female,Kiribati,1984,3
+177,Jesus Sanders,Female,Venezuela,2013,12
+178,Alicia Saunders,Female,Estonia,2004,12
+179,Tamara Stewart,Male,Netherlands Antilles,2010,14
+180,Lisa Walker,Male,Oman,2020,8
+181,Bobby Cannon,Female,Slovakia (Slovak Republic),2000,12
+182,Anthony Williams,Female,Bulgaria,2012,15
+183,Tracey Robinson,Male,Tajikistan,1992,13
+184,Michael Bradford,Female,Uruguay,2002,5
+185,Aaron Robinson,Male,Liechtenstein,1989,3
+186,Ann Sherman,Female,Fiji,1980,4
+187,Robert Drake,Female,Cape Verde,2012,1
+188,Bruce Reed,Male,Serbia,2005,5
+189,Ariana Snow,Male,American Samoa,1981,3
+190,Christy Cole,Female,Indonesia,1988,13
+191,Stephen Thompson,Female,Suriname,1976,15
+192,Mark Bender,Female,Iran,2000,14
+193,Dr. Andrew Nixon,Male,Suriname,1978,5
+194,Johnny Schmidt Jr.,Female,Western Sahara,2017,12
+195,Carol Sanders,Female,Cayman Islands,1986,11
+196,Helen Newton,Female,Nepal,2016,0
+197,Linda Morgan,Female,Saint Pierre and Miquelon,2005,4
+198,Miss Kim Clark,Female,Turkey,2018,15
+199,Krista Anthony,Male,Saint Vincent and the Grenadines,1981,15
+200,Gabriel Baker,Male,China,2013,3
