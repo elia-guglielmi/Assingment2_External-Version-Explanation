@@ -1,31 +1,55 @@
 version_name,version_number,base_table,joined_tables,join_type,missing_data_introduced,missing_data_percentage,description,rows_in_output,columns_in_output,created_at
-imdb_with_financials,1,IMDB_Base.csv,financials,left,False,0,Base table with financial information added,800,11,2025-04-03 19:52:49.579344
-imdb_with_financials_missing_5pct,2,IMDB_Base.csv,financials,left,True,0.05,Base table with financial information added with 5% missing values,800,11,2025-04-03 19:52:49.592819
-imdb_with_financials_missing_15pct,3,IMDB_Base.csv,financials,left,True,0.15,Base table with financial information added with 15% missing values,800,11,2025-04-03 19:52:49.603050
-imdb_with_directors,4,IMDB_Base.csv,directors,left,False,0,Base table with director information added,800,11,2025-04-03 19:52:49.630909
-imdb_with_directors_missing_5pct,5,IMDB_Base.csv,directors,left,True,0.05,Base table with director information added with 5% missing values,800,11,2025-04-03 19:52:49.640908
-imdb_with_directors_missing_15pct,6,IMDB_Base.csv,directors,left,True,0.15,Base table with director information added with 15% missing values,800,11,2025-04-03 19:52:49.650158
-imdb_with_streaming,7,IMDB_Base.csv,streaming,left,False,0,Base table with streaming availability added,800,10,2025-04-03 19:52:49.659081
-imdb_with_streaming_missing_5pct,8,IMDB_Base.csv,streaming,left,True,0.05,Base table with streaming availability added with 5% missing values,800,10,2025-04-03 19:52:49.668311
-imdb_with_streaming_missing_15pct,9,IMDB_Base.csv,streaming,left,True,0.15,Base table with streaming availability added with 15% missing values,800,10,2025-04-03 19:52:49.677402
-imdb_with_country_data,10,IMDB_Base.csv,country_data,left,False,0,Base table with country-specific release data added,847,10,2025-04-03 19:52:49.685596
-imdb_with_country_data_missing_5pct,11,IMDB_Base.csv,country_data,left,True,0.05,Base table with country-specific release data added with 5% missing values,847,10,2025-04-03 19:52:49.693789
-imdb_with_country_data_missing_15pct,12,IMDB_Base.csv,country_data,left,True,0.15,Base table with country-specific release data added with 15% missing values,847,10,2025-04-03 19:52:49.701964
-imdb_with_awards,13,IMDB_Base.csv,awards,left,False,0,Base table with awards information (may have duplicate movie rows),814,10,2025-04-03 19:52:49.710962
-imdb_with_awards_missing_5pct,14,IMDB_Base.csv,awards,left,True,0.05,Base table with awards information (may have duplicate movie rows) with 5% missing values,814,10,2025-04-03 19:52:49.719150
-imdb_with_awards_missing_15pct,15,IMDB_Base.csv,awards,left,True,0.15,Base table with awards information (may have duplicate movie rows) with 15% missing values,814,10,2025-04-03 19:52:49.727375
-imdb_with_ratings,16,IMDB_Base.csv,ratings,left,False,0,Base table with average user ratings added,800,8,2025-04-03 19:52:49.738777
-imdb_with_ratings_missing_5pct,17,IMDB_Base.csv,ratings,left,True,0.05,Base table with average user ratings added with 5% missing values,800,8,2025-04-03 19:52:49.747079
-imdb_with_ratings_missing_15pct,18,IMDB_Base.csv,ratings,left,True,0.15,Base table with average user ratings added with 15% missing values,800,8,2025-04-03 19:52:49.753307
-imdb_with_actor_count,19,IMDB_Base.csv,actor_count,left,False,0,Base table with count of actors per movie,800,7,2025-04-03 19:52:49.762571
-imdb_with_actor_count_missing_5pct,20,IMDB_Base.csv,actor_count,left,True,0.05,Base table with count of actors per movie with 5% missing values,800,7,2025-04-03 19:52:49.768574
-imdb_with_actor_count_missing_15pct,21,IMDB_Base.csv,actor_count,left,True,0.15,Base table with count of actors per movie with 15% missing values,800,7,2025-04-03 19:52:49.776397
-imdb_with_lead_actor,22,IMDB_Base.csv,lead_actor,left,False,0,Base table with name of lead actor added,800,7,2025-04-03 19:52:49.785655
-imdb_with_lead_actor_missing_5pct,23,IMDB_Base.csv,lead_actor,left,True,0.05,Base table with name of lead actor added with 5% missing values,800,7,2025-04-03 19:52:49.793907
-imdb_with_lead_actor_missing_15pct,24,IMDB_Base.csv,lead_actor,left,True,0.15,Base table with name of lead actor added with 15% missing values,800,7,2025-04-03 19:52:49.801054
-imdb_with_financials_and_directors,25,IMDB_Base.csv,financials_and_directors,left,False,0,Base table with both financial and director information,800,16,2025-04-03 19:52:49.812596
-imdb_with_financials_and_directors_missing_5pct,26,IMDB_Base.csv,financials_and_directors,left,True,0.05,Base table with both financial and director information with 5% missing values,800,16,2025-04-03 19:52:49.825740
-imdb_with_financials_and_directors_missing_15pct,27,IMDB_Base.csv,financials_and_directors,left,True,0.15,Base table with both financial and director information with 15% missing values,800,16,2025-04-03 19:52:49.838150
-imdb_comprehensive,28,IMDB_Base.csv,movie_financials + streaming + user_ratings,left,False,0,"Base table with financials, streaming, and ratings combined",800,16,2025-04-03 19:52:49.852671
-imdb_comprehensive_missing_5pct,29,IMDB_Base.csv,movie_financials + streaming + user_ratings,left,True,0.05,Comprehensive version with 5% missing values,800,16,2025-04-03 19:52:49.865893
-imdb_comprehensive_missing_15pct,30,IMDB_Base.csv,movie_financials + streaming + user_ratings,left,True,0.15,Comprehensive version with 15% missing values,800,16,2025-04-03 19:52:49.878099
+imdb_with_financials_l,1,IMDB_Base.csv,financials_l,left,False,0,Base table with financial information added,800,11,2025-04-07 19:00:56.962902
+imdb_with_financials_l_missing_5pct,2,IMDB_Base.csv,financials_l,left,True,0.05,Base table with financial information added with 5% missing values,800,11,2025-04-07 19:00:56.972452
+imdb_with_financials_l_missing_15pct,3,IMDB_Base.csv,financials_l,left,True,0.15,Base table with financial information added with 15% missing values,800,11,2025-04-07 19:00:56.981968
+imdb_with_financials_i,4,IMDB_Base.csv,financials_i,inner,False,0,Base table with financial information added,800,11,2025-04-07 19:00:56.995157
+imdb_with_financials_i_missing_5pct,5,IMDB_Base.csv,financials_i,left,True,0.05,Base table with financial information added with 5% missing values,800,11,2025-04-07 19:00:57.006195
+imdb_with_financials_i_missing_15pct,6,IMDB_Base.csv,financials_i,left,True,0.15,Base table with financial information added with 15% missing values,800,11,2025-04-07 19:00:57.012922
+imdb_with_financials_r,7,IMDB_Base.csv,financials_r,right,False,0,Base table with financial information added,800,11,2025-04-07 19:00:57.012922
+imdb_with_financials_r_missing_5pct,8,IMDB_Base.csv,financials_r,left,True,0.05,Base table with financial information added with 5% missing values,800,11,2025-04-07 19:00:57.028990
+imdb_with_financials_r_missing_15pct,9,IMDB_Base.csv,financials_r,left,True,0.15,Base table with financial information added with 15% missing values,800,11,2025-04-07 19:00:57.028990
+imdb_with_directors_l,10,IMDB_Base.csv,directors_l,left,False,0,Base table with director information added,800,11,2025-04-07 19:00:57.044907
+imdb_with_directors_l_missing_5pct,11,IMDB_Base.csv,directors_l,left,True,0.05,Base table with director information added with 5% missing values,800,11,2025-04-07 19:00:57.060759
+imdb_with_directors_l_missing_15pct,12,IMDB_Base.csv,directors_l,left,True,0.15,Base table with director information added with 15% missing values,800,11,2025-04-07 19:00:57.060759
+imdb_with_directors_i,13,IMDB_Base.csv,directors_i,inner,False,0,Base table with director information added,800,11,2025-04-07 19:00:57.078809
+imdb_with_directors_i_missing_5pct,14,IMDB_Base.csv,directors_i,left,True,0.05,Base table with director information added with 5% missing values,800,11,2025-04-07 19:00:57.079718
+imdb_with_directors_i_missing_15pct,15,IMDB_Base.csv,directors_i,left,True,0.15,Base table with director information added with 15% missing values,800,11,2025-04-07 19:00:57.094522
+imdb_with_directors_r,16,IMDB_Base.csv,directors_r,right,False,0,Base table with director information added,800,11,2025-04-07 19:00:57.094522
+imdb_with_directors_r_missing_5pct,17,IMDB_Base.csv,directors_r,left,True,0.05,Base table with director information added with 5% missing values,800,11,2025-04-07 19:00:57.110576
+imdb_with_directors_r_missing_15pct,18,IMDB_Base.csv,directors_r,left,True,0.15,Base table with director information added with 15% missing values,800,11,2025-04-07 19:00:57.110576
+imdb_with_streaming_l,19,IMDB_Base.csv,streaming_l,left,False,0,Base table with streaming availability added,800,10,2025-04-07 19:00:57.126586
+imdb_with_streaming_l_missing_5pct,20,IMDB_Base.csv,streaming_l,left,True,0.05,Base table with streaming availability added with 5% missing values,800,10,2025-04-07 19:00:57.126586
+imdb_with_streaming_l_missing_15pct,21,IMDB_Base.csv,streaming_l,left,True,0.15,Base table with streaming availability added with 15% missing values,800,10,2025-04-07 19:00:57.146637
+imdb_with_streaming_i,22,IMDB_Base.csv,streaming_i,inner,False,0,Base table with streaming availability added,800,10,2025-04-07 19:00:57.146637
+imdb_with_streaming_i_missing_5pct,23,IMDB_Base.csv,streaming_i,left,True,0.05,Base table with streaming availability added with 5% missing values,800,10,2025-04-07 19:00:57.164045
+imdb_with_streaming_i_missing_15pct,24,IMDB_Base.csv,streaming_i,left,True,0.15,Base table with streaming availability added with 15% missing values,800,10,2025-04-07 19:00:57.165947
+imdb_with_streaming_r,25,IMDB_Base.csv,streaming_r,right,False,0,Base table with streaming availability added,800,10,2025-04-07 19:00:57.179815
+imdb_with_streaming_r_missing_5pct,26,IMDB_Base.csv,streaming_r,left,True,0.05,Base table with streaming availability added with 5% missing values,800,10,2025-04-07 19:00:57.179815
+imdb_with_streaming_r_missing_15pct,27,IMDB_Base.csv,streaming_r,left,True,0.15,Base table with streaming availability added with 15% missing values,800,10,2025-04-07 19:00:57.196425
+imdb_with_country_data_l,28,IMDB_Base.csv,country_data_l,left,False,0,Base table with country-specific release data added,847,10,2025-04-07 19:00:57.196425
+imdb_with_country_data_l_missing_5pct,29,IMDB_Base.csv,country_data_l,left,True,0.05,Base table with country-specific release data added with 5% missing values,847,10,2025-04-07 19:00:57.211707
+imdb_with_country_data_l_missing_15pct,30,IMDB_Base.csv,country_data_l,left,True,0.15,Base table with country-specific release data added with 15% missing values,847,10,2025-04-07 19:00:57.211707
+imdb_with_country_data_i,31,IMDB_Base.csv,country_data_i,inner,False,0,Base table with country-specific release data added,300,10,2025-04-07 19:00:57.211707
+imdb_with_country_data_i_missing_5pct,32,IMDB_Base.csv,country_data_i,left,True,0.05,Base table with country-specific release data added with 5% missing values,300,10,2025-04-07 19:00:57.229871
+imdb_with_country_data_i_missing_15pct,33,IMDB_Base.csv,country_data_i,left,True,0.15,Base table with country-specific release data added with 15% missing values,300,10,2025-04-07 19:00:57.229871
+imdb_with_country_data_r,34,IMDB_Base.csv,country_data_r,right,False,0,Base table with country-specific release data added,300,10,2025-04-07 19:00:57.229871
+imdb_with_country_data_r_missing_5pct,35,IMDB_Base.csv,country_data_r,left,True,0.05,Base table with country-specific release data added with 5% missing values,300,10,2025-04-07 19:00:57.245628
+imdb_with_country_data_r_missing_15pct,36,IMDB_Base.csv,country_data_r,left,True,0.15,Base table with country-specific release data added with 15% missing values,300,10,2025-04-07 19:00:57.247354
+imdb_with_awards_l,37,IMDB_Base.csv,awards_l,left,False,0,Base table with awards information (may have duplicate movie rows),814,10,2025-04-07 19:00:57.247354
+imdb_with_awards_l_missing_5pct,38,IMDB_Base.csv,awards_l,left,True,0.05,Base table with awards information (may have duplicate movie rows) with 5% missing values,814,10,2025-04-07 19:00:57.263095
+imdb_with_awards_l_missing_15pct,39,IMDB_Base.csv,awards_l,left,True,0.15,Base table with awards information (may have duplicate movie rows) with 15% missing values,814,10,2025-04-07 19:00:57.263095
+imdb_with_awards_i,40,IMDB_Base.csv,awards_i,inner,False,0,Base table with awards information (may have duplicate movie rows),150,10,2025-04-07 19:00:57.278020
+imdb_with_awards_i_missing_5pct,41,IMDB_Base.csv,awards_i,left,True,0.05,Base table with awards information (may have duplicate movie rows) with 5% missing values,150,10,2025-04-07 19:00:57.278020
+imdb_with_awards_i_missing_15pct,42,IMDB_Base.csv,awards_i,left,True,0.15,Base table with awards information (may have duplicate movie rows) with 15% missing values,150,10,2025-04-07 19:00:57.278020
+imdb_with_awards_r,43,IMDB_Base.csv,awards_r,right,False,0,Base table with awards information (may have duplicate movie rows),150,10,2025-04-07 19:00:57.278020
+imdb_with_awards_r_missing_5pct,44,IMDB_Base.csv,awards_r,left,True,0.05,Base table with awards information (may have duplicate movie rows) with 5% missing values,150,10,2025-04-07 19:00:57.293916
+imdb_with_awards_r_missing_15pct,45,IMDB_Base.csv,awards_r,left,True,0.15,Base table with awards information (may have duplicate movie rows) with 15% missing values,150,10,2025-04-07 19:00:57.293916
+imdb_with_lead_actor,46,IMDB_Base.csv,lead_actor,left,False,0,Base table with name of lead actor added,800,7,2025-04-07 19:00:57.293916
+imdb_with_lead_actor_missing_5pct,47,IMDB_Base.csv,lead_actor,left,True,0.05,Base table with name of lead actor added with 5% missing values,800,7,2025-04-07 19:00:57.309651
+imdb_with_lead_actor_missing_15pct,48,IMDB_Base.csv,lead_actor,left,True,0.15,Base table with name of lead actor added with 15% missing values,800,7,2025-04-07 19:00:57.309651
+imdb_with_financials_and_directors,49,IMDB_Base.csv,financials_and_directors,left,False,0,Base table with both financial and director information,800,16,2025-04-07 19:00:57.325547
+imdb_with_financials_and_directors_missing_5pct,50,IMDB_Base.csv,financials_and_directors,left,True,0.05,Base table with both financial and director information with 5% missing values,800,16,2025-04-07 19:00:57.341350
+imdb_with_financials_and_directors_missing_15pct,51,IMDB_Base.csv,financials_and_directors,left,True,0.15,Base table with both financial and director information with 15% missing values,800,16,2025-04-07 19:00:57.357248
+imdb_comprehensive,52,IMDB_Base.csv,movie_financials + streaming + user_ratings,left,False,0,"Base table with financials, streaming, and ratings combined",800,16,2025-04-07 19:00:57.357248
+imdb_comprehensive_missing_5pct,53,IMDB_Base.csv,movie_financials + streaming + user_ratings,left,True,0.05,Comprehensive version with 5% missing values,800,16,2025-04-07 19:00:57.372921
+imdb_comprehensive_missing_15pct,54,IMDB_Base.csv,movie_financials + streaming + user_ratings,left,True,0.15,Comprehensive version with 15% missing values,800,16,2025-04-07 19:00:57.388626
