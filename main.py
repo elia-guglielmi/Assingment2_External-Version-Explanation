@@ -19,6 +19,7 @@ def main():
             base_file=config['base_file'],
             new_file=config['new_file'],
             candidate_dir=config['candidate_dir']
+            #new_attributes=["attribute1","attribute2"...] OPTIONAL
         )
         
         # Print results
