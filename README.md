@@ -26,7 +26,9 @@ Run the analysis:
 
 ```bash
 python main.py
-
+```
+output:
+ 
 ```bash
 ==================================================
 Analyzing: d:\uni\AdvancedTopics\project2\sinteticDB\IMDB\Versions\imdb_with_financials_l.csv
@@ -68,3 +70,4 @@ Top Candidate Matches:
  → financials.Primary_Production_Company | Jaccard: 1.0000 | Join: left
 
 ✅ Best match for `Primary_Production_Company`: financials.Primary_Production_Company → obtained through left join on original_table.Series_Title = financials.Series_Title (Jaccard sim: 1.0000)
+```
