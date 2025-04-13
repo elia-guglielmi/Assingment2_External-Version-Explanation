@@ -6,9 +6,10 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 # Example configuration - modified to use paths relative to this script
 CONFIGURATIONS = [
     {
-        "base_file": os.path.join(BASE_DIR, "sinteticDB", "IMDB", "IMDB_Base.csv"),
-        "new_file": os.path.join(BASE_DIR, "sinteticDB", "IMDB", "Versions", "imdb_with_financials_l.csv"),
-        "candidate_dir": os.path.join(BASE_DIR, "sinteticDB", "IMDB", "externalTables")
+        "base_file": os.path.join(BASE_DIR, "syntheticDB", "IMDB", "IMDB_Base.csv"),
+        "new_file": os.path.join(BASE_DIR, "syntheticDB", "IMDB", "Versions", "imdb_with_financials_l.csv"),
+        "candidate_dir": os.path.join(BASE_DIR, "syntheticDB", "IMDB", "externalTables"),
+        "new_attribute":[] #insert the attributes names to analyze OPTIONAL
     },
     # Add more configurations as needed
 ]
@@ -21,13 +22,14 @@ import os
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Now make BASE_DIR relative to this script's location
-BASE_DIR = os.path.join(SCRIPT_DIR, "sinteticDB", "IMDB")
+BASE_DIR = os.path.join(SCRIPT_DIR, "syntheticDB", "IMDB")
 
 CONFIGURATIONS = [
     {
         "base_file": os.path.join(BASE_DIR, "IMDB_Base.csv"),
         "new_file": os.path.join(BASE_DIR, "Versions", filename),
         "candidate_dir": os.path.join(BASE_DIR, "externalTables")
+        "new_attribute":[]
     }
     for filename in os.listdir(os.path.join(BASE_DIR, "Versions"))
     if filename.endswith(".csv")

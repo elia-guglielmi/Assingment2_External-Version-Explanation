@@ -18,8 +18,8 @@ def main():
         results = analyzer.analyze_new_attributes(
             base_file=config['base_file'],
             new_file=config['new_file'],
-            candidate_dir=config['candidate_dir']
-            #new_attributes=["attribute1","attribute2"...] OPTIONAL
+            candidate_dir=config['candidate_dir'],
+            new_attributes=config['new_attribute']
         )
         
         # Print results
